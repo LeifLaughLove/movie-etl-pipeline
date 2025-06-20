@@ -81,3 +81,15 @@ A complete ETL (Extract, Transform, Load) pipeline for collecting, cleaning, and
     - Open `etl/movie_etl_queries.sql` in DBeaver or your preferred SQL client.
 
 ---
+
+## Screenshots
+
+![UI SCREENSHOT](./images/UI1.png)
+![UI SCREENSHOT](./images/UI2.png)
+![UI SCREENSHOT](./images/UI3.png)
+
+---
+
+## License
+
+MIT License

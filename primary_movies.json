@@ -1,0 +1,2737 @@
+[
+    {
+        "id": 278,
+        "title": "The Shawshank Redemption",
+        "overview": "Imprisoned in the 1940s for the double murder of his wife and her lover, upstanding banker Andy Dufresne begins a new life at the Shawshank prison, where he puts his accounting skills to work for an amoral warden. During his long stretch in prison, Dufresne comes to be admired by the other inmates -- including an older prisoner named Red -- for his integrity and unquenchable sense of hope.",
+        "popularity": 30.8106,
+        "vote_count": 28446,
+        "vote_average": 8.712,
+        "release_date": "1994-09-23",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "rating": "R",
+        "genres": "Drama, Crime"
+    },
+    {
+        "id": 238,
+        "title": "The Godfather",
+        "overview": "Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.",
+        "popularity": 31.2711,
+        "vote_count": 21544,
+        "vote_average": 8.7,
+        "release_date": "1972-03-14",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "rating": "R",
+        "genres": "Drama, Crime"
+    },
+    {
+        "id": 155,
+        "title": "The Dark Knight",
+        "overview": "Batman raises the stakes in his war on crime. With the help of Lt. Jim Gordon and District Attorney Harvey Dent, Batman sets out to dismantle the remaining criminal organizations that plague the streets. The partnership proves to be effective, but they soon find themselves prey to a reign of chaos unleashed by a rising criminal mastermind known to the terrified citizens of Gotham as the Joker.",
+        "popularity": 21.978,
+        "vote_count": 33963,
+        "vote_average": 8.52,
+        "release_date": "2008-07-16",
+        "genre_ids": [
+            18,
+            28,
+            80,
+            53
+        ],
+        "rating": "PG-13",
+        "genres": "Drama, Action, Crime, Thriller"
+    },
+    {
+        "id": 496243,
+        "title": "Parasite",
+        "overview": "All unemployed, Ki-taek's family takes peculiar interest in the wealthy and glamorous Parks for their livelihood until they get entangled in an unexpected incident.",
+        "popularity": 21.0543,
+        "vote_count": 19143,
+        "vote_average": 8.5,
+        "release_date": "2019-05-30",
+        "genre_ids": [
+            35,
+            53,
+            18
+        ],
+        "rating": "R",
+        "genres": "Comedy, Thriller, Drama"
+    },
+    {
+        "id": 429,
+        "title": "The Good, the Bad and the Ugly",
+        "overview": "While the Civil War rages on between the Union and the Confederacy, three men \u2013 a quiet loner, a ruthless hitman, and a Mexican bandit \u2013 comb the American Southwest in search of a strongbox containing $200,000 in stolen gold.",
+        "popularity": 17.8917,
+        "vote_count": 9031,
+        "vote_average": 8.462,
+        "release_date": "1966-12-22",
+        "genre_ids": [
+            37
+        ],
+        "rating": "R",
+        "genres": "Western"
+    },
+    {
+        "id": 157336,
+        "title": "Interstellar",
+        "overview": "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+        "popularity": 34.9778,
+        "vote_count": 37296,
+        "vote_average": 8.455,
+        "release_date": "2014-11-05",
+        "genre_ids": [
+            12,
+            18,
+            878
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Drama, Science Fiction"
+    },
+    {
+        "id": 550,
+        "title": "Fight Club",
+        "overview": "A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground \"fight clubs\" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.",
+        "popularity": 20.0537,
+        "vote_count": 30371,
+        "vote_average": 8.438,
+        "release_date": "1999-10-15",
+        "genre_ids": [
+            18
+        ],
+        "rating": "R",
+        "genres": "Drama"
+    },
+    {
+        "id": 120,
+        "title": "The Lord of the Rings: The Fellowship of the Ring",
+        "overview": "Young hobbit Frodo Baggins, after inheriting a mysterious ring from his uncle Bilbo, must leave his home in order to keep it from falling into the hands of its evil creator. Along the way, a fellowship is formed to protect the ringbearer and make sure that the ring arrives at its final destination: Mt. Doom, the only place where it can be destroyed.",
+        "popularity": 22.5158,
+        "vote_count": 26048,
+        "vote_average": 8.422,
+        "release_date": "2001-12-18",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Fantasy, Action"
+    },
+    {
+        "id": 27205,
+        "title": "Inception",
+        "overview": "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: \"inception\", the implantation of another person's idea into a target's subconscious.",
+        "popularity": 33.0541,
+        "vote_count": 37562,
+        "vote_average": 8.369,
+        "release_date": "2010-07-15",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Science Fiction, Adventure"
+    },
+    {
+        "id": 1356039,
+        "title": "Counterattack",
+        "overview": "When a hostage rescue mission creates a new enemy, Capt. Guerrero and his elite soldiers must face an ambush by a criminal group.",
+        "popularity": 23.7732,
+        "vote_count": 702,
+        "vote_average": 8.323,
+        "release_date": "2025-02-27",
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Adventure, Thriller"
+    },
+    {
+        "id": 1184918,
+        "title": "The Wild Robot",
+        "overview": "After a shipwreck, an intelligent robot called Roz is stranded on an uninhabited island. To survive the harsh environment, Roz bonds with the island's animals and cares for an orphaned baby goose.",
+        "popularity": 45.9876,
+        "vote_count": 5074,
+        "vote_average": 8.313,
+        "release_date": "2024-09-12",
+        "genre_ids": [
+            16,
+            878,
+            10751
+        ],
+        "rating": "PG",
+        "genres": "Animation, Science Fiction, Family"
+    },
+    {
+        "id": 569094,
+        "title": "Spider-Man: Across the Spider-Verse",
+        "overview": "After reuniting with Gwen Stacy, Brooklyn\u2019s full-time, friendly neighborhood Spider-Man is catapulted across the Multiverse, where he encounters the Spider Society, a team of Spider-People charged with protecting the Multiverse\u2019s very existence. But when the heroes clash on how to handle a new threat, Miles finds himself pitted against the other Spiders and must set out on his own to save those he loves most.",
+        "popularity": 27.7827,
+        "vote_count": 7639,
+        "vote_average": 8.3,
+        "release_date": "2023-05-31",
+        "genre_ids": [
+            16,
+            28,
+            12,
+            878
+        ],
+        "rating": "PG",
+        "genres": "Animation, Action, Adventure, Science Fiction"
+    },
+    {
+        "id": 299534,
+        "title": "Avengers: Endgame",
+        "overview": "After the devastating events of Avengers: Infinity War, the universe is in ruins due to the efforts of the Mad Titan, Thanos. With the help of remaining allies, the Avengers must assemble once more in order to undo Thanos' actions and restore order to the universe once and for all, no matter what consequences may be in store.",
+        "popularity": 19.318,
+        "vote_count": 26425,
+        "vote_average": 8.24,
+        "release_date": "2019-04-24",
+        "genre_ids": [
+            12,
+            878,
+            28
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Science Fiction, Action"
+    },
+    {
+        "id": 299536,
+        "title": "Avengers: Infinity War",
+        "overview": "As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.",
+        "popularity": 34.3929,
+        "vote_count": 30629,
+        "vote_average": 8.237,
+        "release_date": "2018-04-25",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Action, Science Fiction"
+    },
+    {
+        "id": 603,
+        "title": "The Matrix",
+        "overview": "Set in the 22nd century, The Matrix tells the story of a computer hacker who joins a group of underground insurgents fighting the vast and powerful computers who now rule the earth.",
+        "popularity": 21.8673,
+        "vote_count": 26468,
+        "vote_average": 8.227,
+        "release_date": "1999-03-31",
+        "genre_ids": [
+            28,
+            878
+        ],
+        "rating": "R",
+        "genres": "Action, Science Fiction"
+    },
+    {
+        "id": 315162,
+        "title": "Puss in Boots: The Last Wish",
+        "overview": "Puss in Boots discovers that his passion for adventure has taken its toll: He has burned through eight of his nine lives, leaving him with only one life left. Puss sets out on an epic journey to find the mythical Last Wish and restore his nine lives.",
+        "popularity": 21.2997,
+        "vote_count": 8247,
+        "vote_average": 8.215,
+        "release_date": "2022-12-07",
+        "genre_ids": [
+            16,
+            12,
+            14,
+            35,
+            10751
+        ],
+        "rating": "PG",
+        "genres": "Animation, Adventure, Fantasy, Comedy, Family"
+    },
+    {
+        "id": 354912,
+        "title": "Coco",
+        "overview": "Despite his family\u2019s baffling generations-old ban on music, Miguel dreams of becoming an accomplished musician like his idol, Ernesto de la Cruz. Desperate to prove his talent, Miguel finds himself in the stunning and colorful Land of the Dead following a mysterious chain of events. Along the way, he meets charming trickster Hector, and together, they set off on an extraordinary journey to unlock the real story behind Miguel's family history.",
+        "popularity": 20.6539,
+        "vote_count": 20010,
+        "vote_average": 8.205,
+        "release_date": "2017-10-27",
+        "genre_ids": [
+            10751,
+            16,
+            10402,
+            12
+        ],
+        "rating": "PG",
+        "genres": "Family, Animation, Music, Adventure"
+    },
+    {
+        "id": 11,
+        "title": "Star Wars",
+        "overview": "Princess Leia is captured and held hostage by the evil Imperial forces in their effort to take over the galactic Empire. Venturesome Luke Skywalker and dashing captain Han Solo team together with the loveable robot duo R2-D2 and C-3PO to rescue the beautiful princess and restore peace and justice in the Empire.",
+        "popularity": 20.3754,
+        "vote_count": 21233,
+        "vote_average": 8.205,
+        "release_date": "1977-05-25",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "rating": "PG",
+        "genres": "Adventure, Action, Science Fiction"
+    },
+    {
+        "id": 823219,
+        "title": "Flow",
+        "overview": "A solitary cat, displaced by a great flood, finds refuge on a boat with various species and must navigate the challenges of adapting to a transformed world together.",
+        "popularity": 34.3931,
+        "vote_count": 2047,
+        "vote_average": 8.177,
+        "release_date": "2024-08-29",
+        "genre_ids": [
+            16,
+            14,
+            12
+        ],
+        "rating": "PG",
+        "genres": "Animation, Fantasy, Adventure"
+    },
+    {
+        "id": 361743,
+        "title": "Top Gun: Maverick",
+        "overview": "After more than thirty years of service as one of the Navy\u2019s top aviators, and dodging the advancement in rank that would ground him, Pete \u201cMaverick\u201d Mitchell finds himself training a detachment of TOP GUN graduates for a specialized mission the likes of which no living pilot has ever seen.",
+        "popularity": 26.5631,
+        "vote_count": 9923,
+        "vote_average": 8.175,
+        "release_date": "2022-05-21",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Drama"
+    },
+    {
+        "id": 693134,
+        "title": "Dune: Part Two",
+        "overview": "Follow the mythic journey of Paul Atreides as he unites with Chani and the Fremen while on a path of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the known universe, Paul endeavors to prevent a terrible future only he can foresee.",
+        "popularity": 29.4924,
+        "vote_count": 6749,
+        "vote_average": 8.145,
+        "release_date": "2024-02-27",
+        "genre_ids": [
+            878,
+            12
+        ],
+        "rating": "PG-13",
+        "genres": "Science Fiction, Adventure"
+    },
+    {
+        "id": 872585,
+        "title": "Oppenheimer",
+        "overview": "The story of J. Robert Oppenheimer's role in the development of the atomic bomb during World War II.",
+        "popularity": 29.4791,
+        "vote_count": 10338,
+        "vote_average": 8.1,
+        "release_date": "2023-07-19",
+        "genre_ids": [
+            18,
+            36
+        ],
+        "rating": "R",
+        "genres": "Drama, History"
+    },
+    {
+        "id": 1064486,
+        "title": "Memoir of a Snail",
+        "overview": "Forcibly separated from her twin brother when they are orphaned, a melancholic misfit learns how to find confidence within herself amid the clutter of misfortunes and everyday life.",
+        "popularity": 22.0586,
+        "vote_count": 558,
+        "vote_average": 8.092,
+        "release_date": "2024-10-17",
+        "genre_ids": [
+            16,
+            18,
+            35
+        ],
+        "rating": "R",
+        "genres": "Animation, Drama, Comedy"
+    },
+    {
+        "id": 12445,
+        "title": "Harry Potter and the Deathly Hallows: Part 2",
+        "overview": "Harry, Ron and Hermione continue their quest to vanquish the evil Voldemort once and for all. Just as things begin to look hopeless for the young wizards, Harry discovers a trio of magical objects that endow him with powers to rival Voldemort's formidable skills.",
+        "popularity": 18.7807,
+        "vote_count": 21068,
+        "vote_average": 8.086,
+        "release_date": "2011-07-12",
+        "genre_ids": [
+            14,
+            12
+        ],
+        "rating": "PG-13",
+        "genres": "Fantasy, Adventure"
+    },
+    {
+        "id": 1426776,
+        "title": "STRAW",
+        "overview": "What will be her last straw? A devastatingly bad day pushes a hardworking single mother to the breaking point \u2014 and into a shocking act of desperation.",
+        "popularity": 413.0641,
+        "vote_count": 531,
+        "vote_average": 8.05,
+        "release_date": "2025-06-05",
+        "genre_ids": [
+            53,
+            18,
+            80
+        ],
+        "rating": "R",
+        "genres": "Thriller, Drama, Crime"
+    },
+    {
+        "id": 106646,
+        "title": "The Wolf of Wall Street",
+        "overview": "A New York stockbroker refuses to cooperate in a large securities fraud case involving corruption on Wall Street, corporate banking world and mob infiltration. Based on Jordan Belfort's autobiography.",
+        "popularity": 19.0165,
+        "vote_count": 24702,
+        "vote_average": 8.029,
+        "release_date": "2013-12-25",
+        "genre_ids": [
+            80,
+            18,
+            35
+        ],
+        "rating": "R",
+        "genres": "Crime, Drama, Comedy"
+    },
+    {
+        "id": 638507,
+        "title": "How to Train Your Dragon: Homecoming",
+        "overview": "It's been ten years since the dragons moved to the Hidden World, and even though Toothless doesn't live in New Berk anymore, Hiccup continues the holiday traditions he once shared with his best friend. But the Vikings of New Berk were beginning to forget about their friendship with dragons. Hiccup, Astrid, and Gobber know just what to do to keep the dragons in the villagers' hearts. And across the sea, the dragons have a plan of their own...",
+        "popularity": 25.4246,
+        "vote_count": 1024,
+        "vote_average": 8.028,
+        "release_date": "2019-12-03",
+        "genre_ids": [
+            16,
+            14,
+            12,
+            28,
+            10751
+        ],
+        "rating": "PG",
+        "genres": "Animation, Fantasy, Adventure, Action, Family"
+    },
+    {
+        "id": 673,
+        "title": "Harry Potter and the Prisoner of Azkaban",
+        "overview": "Year three at Hogwarts means new fun and challenges as Harry learns the delicate art of approaching a Hippogriff, transforming shape-shifting Boggarts into hilarity and even turning back time. But the term also brings danger: soul-sucking Dementors hover over the school, an ally of the accursed He-Who-Cannot-Be-Named lurks within the castle walls, and fearsome wizard Sirius Black escapes Azkaban. And Harry will confront them all.",
+        "popularity": 22.2805,
+        "vote_count": 22165,
+        "vote_average": 8.012,
+        "release_date": "2004-05-31",
+        "genre_ids": [
+            12,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Adventure, Fantasy"
+    },
+    {
+        "id": 911430,
+        "title": "F1 The Movie",
+        "overview": "Racing legend Sonny Hayes is coaxed out of retirement to lead a struggling Formula 1 team\u2014and mentor a young hotshot driver\u2014while chasing one more chance at glory.",
+        "popularity": 46.5745,
+        "vote_count": 1,
+        "vote_average": 8.0,
+        "release_date": "2025-06-25",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Drama"
+    },
+    {
+        "id": 1376434,
+        "title": "Predator: Killer of Killers",
+        "overview": "While three of the fiercest warriors in human history\u2014a Viking raider, a ninja in feudal Japan, and a WWII pilot\u2014are killers in their own right, they are merely prey for their new opponent: the ultimate killer of killers.",
+        "popularity": 319.7858,
+        "vote_count": 545,
+        "vote_average": 8.0,
+        "release_date": "2025-06-05",
+        "genre_ids": [
+            16,
+            28,
+            878
+        ],
+        "rating": "R",
+        "genres": "Animation, Action, Science Fiction"
+    },
+    {
+        "id": 862,
+        "title": "Toy Story",
+        "overview": "Led by Woody, Andy's toys live happily in his room until Andy's birthday brings Buzz Lightyear onto the scene. Afraid of losing his place in Andy's heart, Woody plots against Buzz. But when circumstances separate Buzz and Woody from their owner, the duo eventually learns to put aside their differences.",
+        "popularity": 21.3323,
+        "vote_count": 18899,
+        "vote_average": 8.0,
+        "release_date": "1995-11-22",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ],
+        "rating": "G",
+        "genres": "Animation, Adventure, Family, Comedy"
+    },
+    {
+        "id": 634649,
+        "title": "Spider-Man: No Way Home",
+        "overview": "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man.",
+        "popularity": 24.3701,
+        "vote_count": 20826,
+        "vote_average": 7.944,
+        "release_date": "2021-12-15",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Adventure, Science Fiction"
+    },
+    {
+        "id": 296096,
+        "title": "Me Before You",
+        "overview": "A small town girl is caught between dead-end jobs. A high-profile, successful man becomes wheelchair bound following an accident. The man decides his life is not worth living until the girl is hired for six months to be his new caretaker. Worlds apart and trapped together by circumstance, the two get off to a rocky start. But the girl becomes determined to prove to the man that life is worth living and as they embark on a series of adventures together, each finds their world changing in ways neither of them could begin to imagine.",
+        "popularity": 19.3696,
+        "vote_count": 12683,
+        "vote_average": 7.931,
+        "release_date": "2016-06-01",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "rating": "PG-13",
+        "genres": "Drama, Romance"
+    },
+    {
+        "id": 597,
+        "title": "Titanic",
+        "overview": "101-year-old Rose DeWitt Bukater tells the story of her life aboard the Titanic, 84 years later. A young Rose boards the ship with her mother and fianc\u00e9. Meanwhile, Jack Dawson and Fabrizio De Rossi win third-class tickets aboard the ship. Rose tells the whole story from Titanic's departure through to its death\u2014on its first and last voyage\u2014on April 15, 1912.",
+        "popularity": 32.7257,
+        "vote_count": 26066,
+        "vote_average": 7.906,
+        "release_date": "1997-11-18",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "rating": "PG-13",
+        "genres": "Drama, Romance"
+    },
+    {
+        "id": 671,
+        "title": "Harry Potter and the Philosopher's Stone",
+        "overview": "Harry Potter has lived under the stairs at his aunt and uncle's house his whole life. But on his 11th birthday, he learns he's a powerful wizard\u2014with a place waiting for him at the Hogwarts School of Witchcraft and Wizardry. As he learns to harness his newfound powers with the help of the school's kindly headmaster, Harry uncovers the truth about his parents' deaths\u2014and about the villain who's to blame.",
+        "popularity": 31.7971,
+        "vote_count": 28286,
+        "vote_average": 7.901,
+        "release_date": "2001-11-16",
+        "genre_ids": [
+            12,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Adventure, Fantasy"
+    },
+    {
+        "id": 1087192,
+        "title": "How to Train Your Dragon",
+        "overview": "On the rugged isle of Berk, where Vikings and dragons have been bitter enemies for generations, Hiccup stands apart, defying centuries of tradition when he befriends Toothless, a feared Night Fury dragon. Their unlikely bond reveals the true nature of dragons, challenging the very foundations of Viking society.",
+        "popularity": 337.3904,
+        "vote_count": 304,
+        "vote_average": 7.9,
+        "release_date": "2025-06-06",
+        "genre_ids": [
+            28,
+            10751,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Action, Family, Fantasy"
+    },
+    {
+        "id": 14836,
+        "title": "Coraline",
+        "overview": "Wandering her rambling old house in her boring new town, 11-year-old Coraline discovers a hidden door to a strangely idealized version of her life. In order to stay in the fantasy, she must make a frighteningly real sacrifice.",
+        "popularity": 26.8039,
+        "vote_count": 8410,
+        "vote_average": 7.893,
+        "release_date": "2009-02-05",
+        "genre_ids": [
+            16,
+            10751,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Animation, Family, Fantasy"
+    },
+    {
+        "id": 10191,
+        "title": "How to Train Your Dragon",
+        "overview": "As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast \u2013 which he names Toothless \u2013 much to the chagrin of his warrior father.",
+        "popularity": 87.8709,
+        "vote_count": 13495,
+        "vote_average": 7.845,
+        "release_date": "2010-03-18",
+        "genre_ids": [
+            14,
+            12,
+            16,
+            10751
+        ],
+        "rating": "PG",
+        "genres": "Fantasy, Adventure, Animation, Family"
+    },
+    {
+        "id": 22,
+        "title": "Pirates of the Caribbean: The Curse of the Black Pearl",
+        "overview": "After Port Royal is attacked and pillaged by a mysterious pirate crew, capturing the governor's daughter Elizabeth Swann in the process, William Turner asks free-willing pirate Jack Sparrow to help him locate the crew's ship\u2014The Black Pearl\u2014so that he can rescue the woman he loves.",
+        "popularity": 21.144,
+        "vote_count": 21180,
+        "vote_average": 7.811,
+        "release_date": "2003-07-09",
+        "genre_ids": [
+            12,
+            14,
+            28
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Fantasy, Action"
+    },
+    {
+        "id": 774370,
+        "title": "Dog Man",
+        "overview": "When a faithful police dog and his human police officer owner are injured together on the job, a harebrained but life-saving surgery fuses the two of them together and Dog Man is born. Dog Man is sworn to protect and serve\u2014and fetch, sit and roll over. As Dog Man embraces his new identity and strives to impress his Chief, he must stop the pretty evil plots of feline supervillain Petey the Cat.",
+        "popularity": 19.6793,
+        "vote_count": 258,
+        "vote_average": 7.8,
+        "release_date": "2025-01-24",
+        "genre_ids": [
+            10751,
+            35,
+            12,
+            16
+        ],
+        "rating": "PG",
+        "genres": "Family, Comedy, Adventure, Animation"
+    },
+    {
+        "id": 585,
+        "title": "Monsters, Inc.",
+        "overview": "Lovable Sulley and his wisecracking sidekick Mike Wazowski are the top scare team at Monsters, Inc., the scream-processing factory in Monstropolis. When a little girl named Boo wanders into their world, it's the monsters who are scared silly, and it's up to Sulley and Mike to keep her out of sight and get her back home.",
+        "popularity": 19.1605,
+        "vote_count": 18904,
+        "vote_average": 7.8,
+        "release_date": "2001-11-01",
+        "genre_ids": [
+            16,
+            35,
+            10751
+        ],
+        "rating": "G",
+        "genres": "Animation, Comedy, Family"
+    },
+    {
+        "id": 674,
+        "title": "Harry Potter and the Goblet of Fire",
+        "overview": "When Harry Potter's name emerges from the Goblet of Fire, he becomes a competitor in a grueling battle for glory among three wizarding schools\u2014the Triwizard Tournament. But since Harry never submitted his name for the Tournament, who did? Now Harry must confront a deadly dragon, fierce water demons and an enchanted maze only to find himself in the cruel grasp of He Who Must Not Be Named.",
+        "popularity": 23.0911,
+        "vote_count": 21224,
+        "vote_average": 7.8,
+        "release_date": "2005-11-16",
+        "genre_ids": [
+            12,
+            14
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Fantasy"
+    },
+    {
+        "id": 438631,
+        "title": "Dune",
+        "overview": "Paul Atreides, a brilliant and gifted young man born into a great destiny beyond his understanding, must travel to the most dangerous planet in the universe to ensure the future of his family and his people. As malevolent forces explode into conflict over the planet's exclusive supply of the most precious resource in existence-a commodity capable of unlocking humanity's greatest potential-only those who can conquer their fear will survive.",
+        "popularity": 19.728,
+        "vote_count": 13627,
+        "vote_average": 7.781,
+        "release_date": "2021-09-15",
+        "genre_ids": [
+            878,
+            12
+        ],
+        "rating": "PG-13",
+        "genres": "Science Fiction, Adventure"
+    },
+    {
+        "id": 24428,
+        "title": "The Avengers",
+        "overview": "When an unexpected enemy emerges and threatens global safety and security, Nick Fury, director of the international peacekeeping agency known as S.H.I.E.L.D., finds himself in need of a team to pull the world back from the brink of disaster. Spanning the globe, a daring recruitment effort begins!",
+        "popularity": 28.992,
+        "vote_count": 32074,
+        "vote_average": 7.762,
+        "release_date": "2012-04-25",
+        "genre_ids": [
+            878,
+            28,
+            12
+        ],
+        "rating": "PG-13",
+        "genres": "Science Fiction, Action, Adventure"
+    },
+    {
+        "id": 808,
+        "title": "Shrek",
+        "overview": "It ain't easy bein' green -- especially if you're a likable (albeit smelly) ogre named Shrek. On a mission to retrieve a gorgeous princess from the clutches of a fire-breathing dragon, Shrek teams up with an unlikely compatriot -- a wisecracking donkey.",
+        "popularity": 23.4917,
+        "vote_count": 17742,
+        "vote_average": 7.752,
+        "release_date": "2001-05-18",
+        "genre_ids": [
+            16,
+            35,
+            14,
+            12,
+            10751
+        ],
+        "rating": "PG",
+        "genres": "Animation, Comedy, Fantasy, Adventure, Family"
+    },
+    {
+        "id": 166428,
+        "title": "How to Train Your Dragon: The Hidden World",
+        "overview": "As Hiccup fulfills his dream of creating a peaceful dragon utopia, Toothless\u2019 discovery of an untamed, elusive mate draws the Night Fury away. When danger mounts at home and Hiccup\u2019s reign as village chief is tested, both dragon and rider must make impossible decisions to save their kind.",
+        "popularity": 55.1007,
+        "vote_count": 6640,
+        "vote_average": 7.751,
+        "release_date": "2019-01-03",
+        "genre_ids": [
+            16,
+            10751,
+            12
+        ],
+        "rating": "PG",
+        "genres": "Animation, Family, Adventure"
+    },
+    {
+        "id": 269149,
+        "title": "Zootopia",
+        "overview": "Determined to prove herself, Officer Judy Hopps, the first bunny on Zootopia's police force, jumps at the chance to crack her first case - even if it means partnering with scam-artist fox Nick Wilde to solve the mystery.",
+        "popularity": 23.3644,
+        "vote_count": 16735,
+        "vote_average": 7.747,
+        "release_date": "2016-02-11",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ],
+        "rating": "PG",
+        "genres": "Animation, Adventure, Family, Comedy"
+    },
+    {
+        "id": 603692,
+        "title": "John Wick: Chapter 4",
+        "overview": "With the price on his head ever increasing, John Wick uncovers a path to defeating The High Table. But before he can earn his freedom, Wick must face off against a new enemy with powerful alliances across the globe and forces that turn old friends into foes.",
+        "popularity": 30.5126,
+        "vote_count": 7148,
+        "vote_average": 7.723,
+        "release_date": "2023-03-22",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "rating": "R",
+        "genres": "Action, Thriller, Crime"
+    },
+    {
+        "id": 939243,
+        "title": "Sonic the Hedgehog 3",
+        "overview": "Sonic, Knuckles, and Tails reunite against a powerful new adversary, Shadow, a mysterious villain with powers unlike anything they have faced before. With their abilities outmatched in every way, Team Sonic must seek out an unlikely alliance in hopes of stopping Shadow and protecting the planet.",
+        "popularity": 58.9546,
+        "vote_count": 2693,
+        "vote_average": 7.716,
+        "release_date": "2024-12-19",
+        "genre_ids": [
+            28,
+            878,
+            35,
+            10751
+        ],
+        "rating": "PG",
+        "genres": "Action, Science Fiction, Comedy, Family"
+    },
+    {
+        "id": 672,
+        "title": "Harry Potter and the Chamber of Secrets",
+        "overview": "Cars fly, trees fight back, and a mysterious house-elf comes to warn Harry Potter at the start of his second year at Hogwarts. Adventure and danger await when bloody writing on a wall announces: The Chamber Of Secrets Has Been Opened. To save Hogwarts will require all of Harry, Ron and Hermione\u2019s magical abilities and courage.",
+        "popularity": 25.4739,
+        "vote_count": 22586,
+        "vote_average": 7.708,
+        "release_date": "2002-11-13",
+        "genre_ids": [
+            12,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Adventure, Fantasy"
+    },
+    {
+        "id": 950396,
+        "title": "The Gorge",
+        "overview": "Two highly trained operatives grow close from a distance after being sent to guard opposite sides of a mysterious gorge. When an evil below emerges, they must work together to survive what lies within.",
+        "popularity": 45.3919,
+        "vote_count": 2704,
+        "vote_average": 7.7,
+        "release_date": "2025-02-13",
+        "genre_ids": [
+            10749,
+            878,
+            53
+        ],
+        "rating": "PG-13",
+        "genres": "Romance, Science Fiction, Thriller"
+    },
+    {
+        "id": 767,
+        "title": "Harry Potter and the Half-Blood Prince",
+        "overview": "As Lord Voldemort tightens his grip on both the Muggle and wizarding worlds, Hogwarts is no longer a safe haven. Harry suspects perils may even lie within the castle, but Dumbledore is more intent upon preparing him for the final battle fast approaching. Together they work to find the key to unlock Voldemorts defenses and to this end, Dumbledore recruits his old friend and colleague Horace Slughorn, whom he believes holds crucial information. Even as the decisive showdown looms, romance blossoms for Harry, Ron, Hermione and their classmates. Love is in the air, but danger lies ahead and Hogwarts may never be the same again.",
+        "popularity": 18.6408,
+        "vote_count": 19911,
+        "vote_average": 7.683,
+        "release_date": "2009-07-15",
+        "genre_ids": [
+            12,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Adventure, Fantasy"
+    },
+    {
+        "id": 82702,
+        "title": "How to Train Your Dragon 2",
+        "overview": "Five years have passed since Hiccup and Toothless united the dragons and Vikings of Berk. Now, they spend their time charting unmapped territories. During one of their adventures, the pair discover a secret cave that houses hundreds of wild dragons -- and a mysterious dragon rider. Hiccup and Toothless find themselves at the center of a battle to protect Berk from a power-hungry warrior.",
+        "popularity": 68.5042,
+        "vote_count": 9873,
+        "vote_average": 7.674,
+        "release_date": "2014-06-05",
+        "genre_ids": [
+            14,
+            28,
+            12,
+            16,
+            35,
+            10751
+        ],
+        "rating": "PG",
+        "genres": "Fantasy, Action, Adventure, Animation, Comedy, Family"
+    },
+    {
+        "id": 675,
+        "title": "Harry Potter and the Order of the Phoenix",
+        "overview": "Returning for his fifth year of study at Hogwarts, Harry is stunned to find that his warnings about the return of Lord Voldemort have been ignored. Left with no choice, Harry takes matters into his own hands, training a small group of students to defend themselves against the dark arts.",
+        "popularity": 20.0678,
+        "vote_count": 19931,
+        "vote_average": 7.674,
+        "release_date": "2007-07-08",
+        "genre_ids": [
+            12,
+            14
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Fantasy"
+    },
+    {
+        "id": 502356,
+        "title": "The Super Mario Bros. Movie",
+        "overview": "While working underground to fix a water main, Brooklyn plumbers\u2014and brothers\u2014Mario and Luigi are transported down a mysterious pipe and wander into a magical new world. But when the brothers are separated, Mario embarks on an epic quest to find Luigi.",
+        "popularity": 22.1269,
+        "vote_count": 9753,
+        "vote_average": 7.619,
+        "release_date": "2023-04-05",
+        "genre_ids": [
+            10751,
+            35,
+            12,
+            16
+        ],
+        "rating": "PG",
+        "genres": "Family, Comedy, Adventure, Animation"
+    },
+    {
+        "id": 1100988,
+        "title": "28 Years Later",
+        "overview": "Twenty-eight years since the rage virus escaped a biological weapons laboratory, now, still in a ruthlessly enforced quarantine, some have found ways to exist amidst the infected. One such group lives on a small island connected to the mainland by a single, heavily-defended causeway. When one member departs on a mission into the dark heart of the mainland, he discovers secrets, wonders, and horrors that have mutated not only the infected but other survivors as well.",
+        "popularity": 86.7855,
+        "vote_count": 53,
+        "vote_average": 7.6,
+        "release_date": "2025-06-18",
+        "genre_ids": [
+            27,
+            53,
+            878
+        ],
+        "rating": "R",
+        "genres": "Horror, Thriller, Science Fiction"
+    },
+    {
+        "id": 11544,
+        "title": "Lilo & Stitch",
+        "overview": "As Stitch, a runaway genetic experiment from a faraway planet, wreaks havoc on the Hawaiian Islands, he becomes the mischievous adopted alien \"puppy\" of an independent little girl named Lilo and learns about loyalty, friendship, and \u02bbohana, the Hawaiian tradition of family.",
+        "popularity": 62.8544,
+        "vote_count": 6628,
+        "vote_average": 7.6,
+        "release_date": "2002-06-21",
+        "genre_ids": [
+            16,
+            10751,
+            35
+        ],
+        "rating": "PG",
+        "genres": "Animation, Family, Comedy"
+    },
+    {
+        "id": 533535,
+        "title": "Deadpool & Wolverine",
+        "overview": "A listless Wade Wilson toils away in civilian life with his days as the morally flexible mercenary, Deadpool, behind him. But when his homeworld faces an existential threat, Wade must reluctantly suit-up again with an even more reluctant Wolverine.",
+        "popularity": 42.0133,
+        "vote_count": 7376,
+        "vote_average": 7.6,
+        "release_date": "2024-07-24",
+        "genre_ids": [
+            28,
+            35,
+            878
+        ],
+        "rating": "R",
+        "genres": "Action, Comedy, Science Fiction"
+    },
+    {
+        "id": 76600,
+        "title": "Avatar: The Way of Water",
+        "overview": "Set more than a decade after the events of the first film, learn the story of the Sully family (Jake, Neytiri, and their kids), the trouble that follows them, the lengths they go to keep each other safe, the battles they fight to stay alive, and the tragedies they endure.",
+        "popularity": 20.3172,
+        "vote_count": 12615,
+        "vote_average": 7.6,
+        "release_date": "2022-12-14",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "rating": "PG-13",
+        "genres": "Science Fiction, Adventure, Action"
+    },
+    {
+        "id": 19995,
+        "title": "Avatar",
+        "overview": "In the 22nd century, a paraplegic Marine is dispatched to the moon Pandora on a unique mission, but becomes torn between following orders and protecting an alien civilization.",
+        "popularity": 19.9832,
+        "vote_count": 32314,
+        "vote_average": 7.6,
+        "release_date": "2009-12-15",
+        "genre_ids": [
+            28,
+            12,
+            14,
+            878
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Adventure, Fantasy, Science Fiction"
+    },
+    {
+        "id": 1022789,
+        "title": "Inside Out 2",
+        "overview": "Teenager Riley's mind headquarters is undergoing a sudden demolition to make room for something entirely unexpected: new Emotions! Joy, Sadness, Anger, Fear and Disgust, who\u2019ve long been running a successful operation by all accounts, aren\u2019t sure how to feel when Anxiety shows up. And it looks like she\u2019s not alone.",
+        "popularity": 45.3736,
+        "vote_count": 5924,
+        "vote_average": 7.554,
+        "release_date": "2024-06-11",
+        "genre_ids": [
+            16,
+            12,
+            35,
+            10751
+        ],
+        "rating": "PG",
+        "genres": "Animation, Adventure, Comedy, Family"
+    },
+    {
+        "id": 1233413,
+        "title": "Sinners",
+        "overview": "Trying to leave their troubled lives behind, twin brothers return to their hometown to start again, only to discover that an even greater evil is waiting to welcome them back.",
+        "popularity": 216.1022,
+        "vote_count": 1539,
+        "vote_average": 7.552,
+        "release_date": "2025-04-16",
+        "genre_ids": [
+            27,
+            53,
+            14
+        ],
+        "rating": "R",
+        "genres": "Horror, Thriller, Fantasy"
+    },
+    {
+        "id": 138843,
+        "title": "The Conjuring",
+        "overview": "Paranormal investigators Ed and Lorraine Warren work to help a family terrorized by a dark presence in their farmhouse. Forced to confront a powerful entity, the Warrens find themselves caught in the most terrifying case of their lives.",
+        "popularity": 20.075,
+        "vote_count": 11897,
+        "vote_average": 7.54,
+        "release_date": "2013-07-18",
+        "genre_ids": [
+            27,
+            53
+        ],
+        "rating": "R",
+        "genres": "Horror, Thriller"
+    },
+    {
+        "id": 588228,
+        "title": "The Tomorrow War",
+        "overview": "The world is stunned when a group of time travelers arrive from the year 2051 to deliver an urgent message: Thirty years in the future, mankind is losing a global war against a deadly alien species. The only hope for survival is for soldiers and civilians from the present to be transported to the future and join the fight. Among those recruited is high school teacher and family man Dan Forester. Determined to save the world for his young daughter, Dan teams up with a brilliant scientist and his estranged father in a desperate quest to rewrite the fate of the planet.",
+        "popularity": 19.6029,
+        "vote_count": 3714,
+        "vote_average": 7.507,
+        "release_date": "2021-09-03",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Science Fiction, Adventure"
+    },
+    {
+        "id": 1303162,
+        "title": "Cells at Work!",
+        "overview": "A novice red blood cell and a relentless white blood cell work together to protect their human from invading germs, pathogens and other threats.",
+        "popularity": 46.6914,
+        "vote_count": 21,
+        "vote_average": 7.5,
+        "release_date": "2024-12-13",
+        "genre_ids": [
+            12,
+            28,
+            35,
+            14
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Action, Comedy, Fantasy"
+    },
+    {
+        "id": 575264,
+        "title": "Mission: Impossible - Dead Reckoning Part One",
+        "overview": "Ethan Hunt and his IMF team embark on their most dangerous mission yet: To track down a terrifying new weapon that threatens all of humanity before it falls into the wrong hands. With control of the future and the world's fate at stake and dark forces from Ethan's past closing in, a deadly race around the globe begins. Confronted by a mysterious, all-powerful enemy, Ethan must consider that nothing can matter more than his mission\u2014not even the lives of those he cares about most.",
+        "popularity": 31.4784,
+        "vote_count": 4389,
+        "vote_average": 7.5,
+        "release_date": "2023-07-08",
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Adventure, Thriller"
+    },
+    {
+        "id": 786892,
+        "title": "Furiosa: A Mad Max Saga",
+        "overview": "As the world falls, young Furiosa is snatched from the Green Place of Many Mothers into the hands of a great biker horde led by the warlord Dementus. Sweeping through the wasteland, they encounter the citadel presided over by Immortan Joe. The two tyrants wage war for dominance, and Furiosa must survive many trials as she puts together the means to find her way home.",
+        "popularity": 19.1847,
+        "vote_count": 4213,
+        "vote_average": 7.476,
+        "release_date": "2024-05-22",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "rating": "R",
+        "genres": "Action, Science Fiction, Adventure"
+    },
+    {
+        "id": 1294203,
+        "title": "My Fault: London",
+        "overview": "18-year-old Noah moves from America to London, with her mother who's recently fallen in love with William, a wealthy British businessman. Noah meets William\u2019s son, bad-boy Nick, and soon discovers there is an attraction between them neither can avoid. As Noah spends the summer adjusting to her new life, her devastating past will catch up with her while falling in love for the first time.",
+        "popularity": 33.3689,
+        "vote_count": 407,
+        "vote_average": 7.434,
+        "release_date": "2025-02-12",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "rating": "PG-13",
+        "genres": "Romance, Drama"
+    },
+    {
+        "id": 1147416,
+        "title": "Miraculous World: London, At the Edge of Time",
+        "overview": "To save the future from a terrible fate, Marinette becomes Chronobug and teams up with Bunnyx to defeat a mysterious opponent who travels through time. Who is this new supervillain, and why are they obsessed with exposing Marinette's secret superhero identity? Marinette's only hope is to defeat her new opponent to prevent the end of Ladybug and time itself!",
+        "popularity": 23.6727,
+        "vote_count": 268,
+        "vote_average": 7.4,
+        "release_date": "2024-11-14",
+        "genre_ids": [
+            16,
+            12,
+            28,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Animation, Adventure, Action, Fantasy"
+    },
+    {
+        "id": 986056,
+        "title": "Thunderbolts*",
+        "overview": "After finding themselves ensnared in a death trap, seven disillusioned castoffs must embark on a dangerous mission that will force them to confront the darkest corners of their pasts.",
+        "popularity": 85.1639,
+        "vote_count": 1139,
+        "vote_average": 7.4,
+        "release_date": "2025-04-30",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Science Fiction, Adventure"
+    },
+    {
+        "id": 573435,
+        "title": "Bad Boys: Ride or Die",
+        "overview": "After their late former Captain is framed, Lowrey and Burnett try to clear his name, only to end up on the run themselves.",
+        "popularity": 23.3608,
+        "vote_count": 2940,
+        "vote_average": 7.4,
+        "release_date": "2024-06-05",
+        "genre_ids": [
+            28,
+            35,
+            80,
+            53,
+            12
+        ],
+        "rating": "R",
+        "genres": "Action, Comedy, Crime, Thriller, Adventure"
+    },
+    {
+        "id": 762509,
+        "title": "Mufasa: The Lion King",
+        "overview": "Mufasa, a cub lost and alone, meets a sympathetic lion named Taka, the heir to a royal bloodline. The chance meeting sets in motion an expansive journey of a group of misfits searching for their destiny.",
+        "popularity": 50.5772,
+        "vote_count": 2206,
+        "vote_average": 7.393,
+        "release_date": "2024-12-18",
+        "genre_ids": [
+            12,
+            10751,
+            16
+        ],
+        "rating": "PG",
+        "genres": "Adventure, Family, Animation"
+    },
+    {
+        "id": 324552,
+        "title": "John Wick: Chapter 2",
+        "overview": "John Wick is forced out of retirement by a former associate looking to seize control of a shadowy international assassins\u2019 guild. Bound by a blood oath to aid him, Wick travels to Rome and does battle against some of the world\u2019s most dangerous killers.",
+        "popularity": 21.5251,
+        "vote_count": 13478,
+        "vote_average": 7.334,
+        "release_date": "2017-02-08",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "rating": "R",
+        "genres": "Action, Thriller, Crime"
+    },
+    {
+        "id": 18785,
+        "title": "The Hangover",
+        "overview": "When three friends finally come to after a raucous night of bachelor-party revelry, they find a baby in the closet and a tiger in the bathroom. But they can't seem to locate their best friend, Doug \u2013 who's supposed to be tying the knot. Launching a frantic search for Doug, the trio perseveres through a nasty hangover to try to make it to the church on time.",
+        "popularity": 20.6874,
+        "vote_count": 17289,
+        "vote_average": 7.324,
+        "release_date": "2009-06-02",
+        "genre_ids": [
+            35
+        ],
+        "rating": "R",
+        "genres": "Comedy"
+    },
+    {
+        "id": 1136867,
+        "title": "Materialists",
+        "overview": "A young, ambitious New York City matchmaker finds herself torn between the perfect match and her imperfect ex.",
+        "popularity": 48.118,
+        "vote_count": 27,
+        "vote_average": 7.315,
+        "release_date": "2025-06-12",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "rating": "R",
+        "genres": "Romance, Drama"
+    },
+    {
+        "id": 170,
+        "title": "28 Days Later",
+        "overview": "Twenty-eight days after a killer virus was accidentally unleashed from a British research facility, a small group of London survivors are caught in a desperate struggle to protect themselves from the infected. Carried by animals and humans, the virus turns those it infects into homicidal maniacs -- and it's absolutely impossible to contain.",
+        "popularity": 53.9032,
+        "vote_count": 7216,
+        "vote_average": 7.239,
+        "release_date": "2002-10-31",
+        "genre_ids": [
+            27,
+            53,
+            878
+        ],
+        "rating": "R",
+        "genres": "Horror, Thriller, Science Fiction"
+    },
+    {
+        "id": 1165642,
+        "title": "Lost in Starlight",
+        "overview": "When an astronaut leaves Earth for Mars, the vast infinite space divides star-crossed lovers in this animated romance that crosses the cosmos.",
+        "popularity": 21.995,
+        "vote_count": 56,
+        "vote_average": 7.223,
+        "release_date": "2025-05-30",
+        "genre_ids": [
+            16,
+            10749,
+            878
+        ],
+        "rating": "PG",
+        "genres": "Animation, Romance, Science Fiction"
+    },
+    {
+        "id": 574475,
+        "title": "Final Destination Bloodlines",
+        "overview": "Plagued by a violent recurring nightmare, college student Stefanie heads home to track down the one person who might be able to break the cycle and save her family from the grisly demise that inevitably awaits them all.",
+        "popularity": 1188.6795,
+        "vote_count": 964,
+        "vote_average": 7.209,
+        "release_date": "2025-05-14",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "rating": "R",
+        "genres": "Horror, Mystery"
+    },
+    {
+        "id": 870028,
+        "title": "The Accountant\u00b2",
+        "overview": "When an old acquaintance is murdered, Wolff is compelled to solve the case. Realizing more extreme measures are necessary, Wolff recruits his estranged and highly lethal brother, Brax, to help. In partnership with Marybeth Medina, they uncover a deadly conspiracy, becoming targets of a ruthless network of killers who will stop at nothing to keep their secrets buried.",
+        "popularity": 276.0523,
+        "vote_count": 845,
+        "vote_average": 7.208,
+        "release_date": "2025-04-23",
+        "genre_ids": [
+            9648,
+            80,
+            53
+        ],
+        "rating": "R",
+        "genres": "Mystery, Crime, Thriller"
+    },
+    {
+        "id": 575265,
+        "title": "Mission: Impossible - The Final Reckoning",
+        "overview": "Ethan Hunt and team continue their search for the terrifying AI known as the Entity \u2014 which has infiltrated intelligence networks all over the globe \u2014 with the world's governments and a mysterious ghost from Hunt's past on their trail. Joined by new allies and armed with the means to shut the Entity down for good, Hunt is in a race against time to prevent the world as we know it from changing forever.",
+        "popularity": 126.3669,
+        "vote_count": 807,
+        "vote_average": 7.2,
+        "release_date": "2025-05-17",
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Adventure, Thriller"
+    },
+    {
+        "id": 1241436,
+        "title": "Warfare",
+        "overview": "A platoon of Navy SEALs embarks on a dangerous mission in Ramadi, Iraq, with the chaos and brotherhood of war retold through their memories of the event.",
+        "popularity": 87.2654,
+        "vote_count": 589,
+        "vote_average": 7.198,
+        "release_date": "2025-04-09",
+        "genre_ids": [
+            10752,
+            28
+        ],
+        "rating": "R",
+        "genres": "War, Action"
+    },
+    {
+        "id": 945961,
+        "title": "Alien: Romulus",
+        "overview": "While scavenging the deep ends of a derelict space station, a group of young space colonizers come face to face with the most terrifying life form in the universe.",
+        "popularity": 30.6012,
+        "vote_count": 3734,
+        "vote_average": 7.196,
+        "release_date": "2024-08-13",
+        "genre_ids": [
+            27,
+            878
+        ],
+        "rating": "R",
+        "genres": "Horror, Science Fiction"
+    },
+    {
+        "id": 198663,
+        "title": "The Maze Runner",
+        "overview": "Set in a post-apocalyptic world, young Thomas is deposited in a community of boys after his memory is erased, soon learning they're all trapped in a maze that will require him to join forces with fellow \u201crunners\u201d for a shot at escape.",
+        "popularity": 25.0808,
+        "vote_count": 17396,
+        "vote_average": 7.19,
+        "release_date": "2014-09-10",
+        "genre_ids": [
+            28,
+            9648,
+            878,
+            53
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Mystery, Science Fiction, Thriller"
+    },
+    {
+        "id": 933260,
+        "title": "The Substance",
+        "overview": "A fading celebrity decides to use a black market drug, a cell-replicating substance that temporarily creates a younger, better version of herself.",
+        "popularity": 37.9771,
+        "vote_count": 4747,
+        "vote_average": 7.145,
+        "release_date": "2024-09-07",
+        "genre_ids": [
+            18,
+            27,
+            878
+        ],
+        "rating": "R",
+        "genres": "Drama, Horror, Science Fiction"
+    },
+    {
+        "id": 411,
+        "title": "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",
+        "overview": "Siblings Lucy, Edmund, Susan and Peter step through a magical wardrobe and find the land of Narnia. There, they discover a charming, once peaceful kingdom that has been plunged into eternal winter by the evil White Witch, Jadis. Aided by the wise and magnificent lion, Aslan, the children lead Narnia into a spectacular, climactic battle to be free of the Witch's glacial powers forever.",
+        "popularity": 25.8825,
+        "vote_count": 10946,
+        "vote_average": 7.132,
+        "release_date": "2005-12-07",
+        "genre_ids": [
+            12,
+            10751,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Adventure, Family, Fantasy"
+    },
+    {
+        "id": 302946,
+        "title": "The Accountant",
+        "overview": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities and the body count starts to rise.",
+        "popularity": 39.3209,
+        "vote_count": 6747,
+        "vote_average": 7.121,
+        "release_date": "2016-10-13",
+        "genre_ids": [
+            80,
+            53,
+            18
+        ],
+        "rating": "R",
+        "genres": "Crime, Thriller, Drama"
+    },
+    {
+        "id": 537915,
+        "title": "After",
+        "overview": "Tessa Young is a dedicated student, dutiful daughter and loyal girlfriend to her high school sweetheart. Entering her first semester of college, Tessa's guarded world opens up when she meets Hardin Scott, a mysterious and brooding rebel who makes her question all she thought she knew about herself -- and what she wants out of life.",
+        "popularity": 21.1836,
+        "vote_count": 8352,
+        "vote_average": 7.12,
+        "release_date": "2019-04-11",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "rating": "PG-13",
+        "genres": "Romance, Drama"
+    },
+    {
+        "id": 541671,
+        "title": "Ballerina",
+        "overview": "Taking place during the events of John Wick: Chapter 3 \u2013 Parabellum, Eve Macarro begins her training in the assassin traditions of the Ruska Roma.",
+        "popularity": 146.4549,
+        "vote_count": 321,
+        "vote_average": 7.1,
+        "release_date": "2025-06-04",
+        "genre_ids": [
+            28,
+            53,
+            80
+        ],
+        "rating": "R",
+        "genres": "Action, Thriller, Crime"
+    },
+    {
+        "id": 552524,
+        "title": "Lilo & Stitch",
+        "overview": "The wildly funny and touching story of a lonely Hawaiian girl and the fugitive alien who helps to mend her broken family.",
+        "popularity": 396.4945,
+        "vote_count": 662,
+        "vote_average": 7.1,
+        "release_date": "2025-05-17",
+        "genre_ids": [
+            10751,
+            878,
+            35,
+            12
+        ],
+        "rating": "PG",
+        "genres": "Family, Science Fiction, Comedy, Adventure"
+    },
+    {
+        "id": 748783,
+        "title": "The Garfield Movie",
+        "overview": "Garfield, the world-famous, Monday-hating, lasagna-loving indoor cat, is about to have a wild outdoor adventure! After an unexpected reunion with his long-lost father \u2013 scruffy street cat Vic \u2013 Garfield and his canine friend Odie are forced from their perfectly pampered life into joining Vic in a hilarious, high-stakes heist.",
+        "popularity": 18.8182,
+        "vote_count": 1279,
+        "vote_average": 7.1,
+        "release_date": "2024-04-30",
+        "genre_ids": [
+            10751,
+            35,
+            12,
+            16
+        ],
+        "rating": "PG",
+        "genres": "Family, Comedy, Adventure, Animation"
+    },
+    {
+        "id": 1426306,
+        "title": "Titan: The OceanGate Submersible Disaster",
+        "overview": "OceanGate's Titan tourist submersible imploded in 2023 on a deep-sea dive to the Titanic. This documentary details how a bold vision ended in tragedy.",
+        "popularity": 46.0028,
+        "vote_count": 66,
+        "vote_average": 7.091,
+        "release_date": "2025-06-06",
+        "genre_ids": [
+            99,
+            18
+        ],
+        "rating": "R",
+        "genres": "Documentary, Drama"
+    },
+    {
+        "id": 823464,
+        "title": "Godzilla x Kong: The New Empire",
+        "overview": "Following their explosive showdown, Godzilla and Kong must reunite against a colossal undiscovered threat hidden within our world, challenging their very existence \u2013 and our own.",
+        "popularity": 20.8441,
+        "vote_count": 4227,
+        "vote_average": 7.087,
+        "release_date": "2024-03-27",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Adventure, Science Fiction"
+    },
+    {
+        "id": 1241982,
+        "title": "Moana 2",
+        "overview": "After receiving an unexpected call from her wayfinding ancestors, Moana journeys alongside Maui and a new crew to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced.",
+        "popularity": 98.0325,
+        "vote_count": 2476,
+        "vote_average": 7.077,
+        "release_date": "2024-11-21",
+        "genre_ids": [
+            16,
+            12,
+            10751,
+            35
+        ],
+        "rating": "PG",
+        "genres": "Animation, Adventure, Family, Comedy"
+    },
+    {
+        "id": 1084199,
+        "title": "Companion",
+        "overview": "During a weekend getaway at a secluded lakeside estate, a group of friends finds themselves entangled in a web of secrets, deception, and advanced technology. As tensions rise and loyalties are tested, they uncover unsettling truths about themselves and the world around them.",
+        "popularity": 35.2651,
+        "vote_count": 1390,
+        "vote_average": 7.071,
+        "release_date": "2025-01-22",
+        "genre_ids": [
+            27,
+            878,
+            53
+        ],
+        "rating": "R",
+        "genres": "Horror, Science Fiction, Thriller"
+    },
+    {
+        "id": 1011985,
+        "title": "Kung Fu Panda 4",
+        "overview": "Po is gearing up to become the spiritual leader of his Valley of Peace, but also needs someone to take his place as Dragon Warrior. As such, he will train a new kung fu practitioner for the spot and will encounter a villain called the Chameleon who conjures villains from the past.",
+        "popularity": 37.4515,
+        "vote_count": 3110,
+        "vote_average": 7.061,
+        "release_date": "2024-03-02",
+        "genre_ids": [
+            16,
+            10751,
+            28,
+            35,
+            12,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Animation, Family, Action, Comedy, Adventure, Fantasy"
+    },
+    {
+        "id": 1064213,
+        "title": "Anora",
+        "overview": "A young sex worker from Brooklyn gets her chance at a Cinderella story when she meets and impulsively marries the son of an oligarch. Once the news reaches Russia, her fairytale is threatened as his parents set out to get the marriage annulled.",
+        "popularity": 28.533,
+        "vote_count": 2291,
+        "vote_average": 7.06,
+        "release_date": "2024-10-14",
+        "genre_ids": [
+            18,
+            35,
+            10749
+        ],
+        "rating": "R",
+        "genres": "Drama, Comedy, Romance"
+    },
+    {
+        "id": 519182,
+        "title": "Despicable Me 4",
+        "overview": "Gru and Lucy and their girls\u2014Margo, Edith and Agnes\u2014welcome a new member to the Gru family, Gru Jr., who is intent on tormenting his dad. Gru also faces a new nemesis in Maxime Le Mal and his femme fatale girlfriend Valentina, forcing the family to go on the run.",
+        "popularity": 38.5568,
+        "vote_count": 2808,
+        "vote_average": 7.039,
+        "release_date": "2024-06-20",
+        "genre_ids": [
+            10751,
+            35,
+            16,
+            878
+        ],
+        "rating": "PG",
+        "genres": "Family, Comedy, Animation, Science Fiction"
+    },
+    {
+        "id": 385687,
+        "title": "Fast X",
+        "overview": "Over many missions and against impossible odds, Dom Toretto and his family have outsmarted, out-nerved and outdriven every foe in their path. Now, they confront the most lethal opponent they've ever faced: A terrifying threat emerging from the shadows of the past who's fueled by blood revenge, and who is determined to shatter this family and destroy everything\u2014and everyone\u2014that Dom loves, forever.",
+        "popularity": 25.0382,
+        "vote_count": 5920,
+        "vote_average": 7.038,
+        "release_date": "2023-05-17",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            12,
+            9648
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Crime, Thriller, Adventure, Mystery"
+    },
+    {
+        "id": 1405338,
+        "title": "Demon City",
+        "overview": "Framed for his family's murder and left for dead, an ex-hitman will stop at nothing to exact revenge on the masked \"demons\" who have taken over his city.",
+        "popularity": 22.4526,
+        "vote_count": 244,
+        "vote_average": 7.027,
+        "release_date": "2025-02-26",
+        "genre_ids": [
+            28,
+            80,
+            14,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Crime, Fantasy, Thriller"
+    },
+    {
+        "id": 954,
+        "title": "Mission: Impossible",
+        "overview": "When Ethan Hunt, the leader of a crack espionage team whose perilous operation has gone awry with no explanation, discovers that a mole has penetrated the CIA, he's surprised to learn that he's the prime suspect. To clear his name, Hunt now must ferret out the real double agent and, in the process, even the score.",
+        "popularity": 21.8414,
+        "vote_count": 9327,
+        "vote_average": 7.002,
+        "release_date": "1996-05-22",
+        "genre_ids": [
+            12,
+            28,
+            53
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Action, Thriller"
+    },
+    {
+        "id": 1238307,
+        "title": "Masameer Junior",
+        "overview": "After a dire lesson on bad behavior, three unruly six-year-olds embark on a chaotic quest for the ultimate \"good deed\" \u2014 unleashing mayhem at every turn.",
+        "popularity": 40.917,
+        "vote_count": 5,
+        "vote_average": 7.0,
+        "release_date": "2025-06-11",
+        "genre_ids": [
+            16,
+            35,
+            12,
+            28
+        ],
+        "rating": "PG-13",
+        "genres": "Animation, Comedy, Adventure, Action"
+    },
+    {
+        "id": 845781,
+        "title": "Red One",
+        "overview": "After Santa Claus (codename: Red One) is kidnapped, the North Pole's Head of Security must team up with the world's most infamous tracker in a globe-trotting, action-packed mission to save Christmas.",
+        "popularity": 25.5263,
+        "vote_count": 2548,
+        "vote_average": 7.0,
+        "release_date": "2024-10-31",
+        "genre_ids": [
+            28,
+            35,
+            14
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Comedy, Fantasy"
+    },
+    {
+        "id": 346698,
+        "title": "Barbie",
+        "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+        "popularity": 24.5173,
+        "vote_count": 9985,
+        "vote_average": 6.971,
+        "release_date": "2023-07-19",
+        "genre_ids": [
+            35,
+            12
+        ],
+        "rating": "PG-13",
+        "genres": "Comedy, Adventure"
+    },
+    {
+        "id": 1276073,
+        "title": "Bullet Train Explosion",
+        "overview": "When panic erupts on a Tokyo-bound bullet train that will explode if it slows below 100 kph, authorities race against time to save everyone on board.",
+        "popularity": 20.2696,
+        "vote_count": 212,
+        "vote_average": 6.939,
+        "release_date": "2025-04-23",
+        "genre_ids": [
+            28,
+            53,
+            80,
+            18
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Thriller, Crime, Drama"
+    },
+    {
+        "id": 1195506,
+        "title": "Novocaine",
+        "overview": "When the girl of his dreams is kidnapped, everyman Nate turns his inability to feel pain into an unexpected strength in his fight to get her back.",
+        "popularity": 33.577,
+        "vote_count": 886,
+        "vote_average": 6.916,
+        "release_date": "2025-03-12",
+        "genre_ids": [
+            28,
+            35,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Comedy, Thriller"
+    },
+    {
+        "id": 1011477,
+        "title": "Karate Kid: Legends",
+        "overview": "After a family tragedy, kung fu prodigy Li Fong is uprooted from his home in Beijing and forced to move to New York City with his mother. When a new friend needs his help, Li enters a karate competition \u2013 but his skills alone aren't enough. Li's kung fu teacher Mr. Han enlists original Karate Kid Daniel LaRusso for help, and Li learns a new way to fight, merging their two styles into one for the ultimate martial arts showdown.",
+        "popularity": 70.7826,
+        "vote_count": 147,
+        "vote_average": 6.9,
+        "release_date": "2025-05-08",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "id": 811941,
+        "title": "Devara: Part 1",
+        "overview": "Devara, a fearless man from a coastal region, embarks on a perilous journey into the treacherous world of the sea to safeguard the lives of his people. Unbeknownst to him, his brother Bhaira is plotting a conspiracy against him. As events unfold, Devara passes on his legacy to his mild-mannered and timid son, Varada.",
+        "popularity": 31.8065,
+        "vote_count": 195,
+        "vote_average": 6.9,
+        "release_date": "2024-09-26",
+        "genre_ids": [
+            28,
+            18
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Drama"
+    },
+    {
+        "id": 1357633,
+        "title": "Solo Leveling -ReAwakening-",
+        "overview": "Over a decade after 'gates' connecting worlds appeared, awakening 'hunters' with superpowers, weakest hunter Sung Jinwoo encounters a double dungeon and accepts a mysterious quest, becoming the only one able to level up, changing his fate. A catch-up recap of the first season coupled with an exclusive sneak peek of the first two episodes of the highly anticipated second season in one momentous theatrical fan experience.",
+        "popularity": 21.0025,
+        "vote_count": 222,
+        "vote_average": 6.9,
+        "release_date": "2024-11-26",
+        "genre_ids": [
+            28,
+            12,
+            14,
+            16
+        ],
+        "rating": "R",
+        "genres": "Action, Adventure, Fantasy, Animation"
+    },
+    {
+        "id": 402431,
+        "title": "Wicked",
+        "overview": "In the land of Oz, ostracized and misunderstood green-skinned Elphaba is forced to share a room with the popular aristocrat Glinda at Shiz University, and the two's unlikely friendship is tested as they begin to fulfill their respective destinies as Glinda the Good and the Wicked Witch of the West.",
+        "popularity": 24.6794,
+        "vote_count": 2189,
+        "vote_average": 6.9,
+        "release_date": "2024-11-20",
+        "genre_ids": [
+            18,
+            10749,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Drama, Romance, Fantasy"
+    },
+    {
+        "id": 696506,
+        "title": "Mickey 17",
+        "overview": "Unlikely hero Mickey Barnes finds himself in the extraordinary circumstance of working for an employer who demands the ultimate commitment to the job\u2026 to die, for a living.",
+        "popularity": 28.9273,
+        "vote_count": 2229,
+        "vote_average": 6.899,
+        "release_date": "2025-02-28",
+        "genre_ids": [
+            878,
+            35,
+            12
+        ],
+        "rating": "R",
+        "genres": "Science Fiction, Comedy, Adventure"
+    },
+    {
+        "id": 1087891,
+        "title": "The Amateur",
+        "overview": "After his life is turned upside down when his wife is killed in a London terrorist attack, a brilliant but introverted CIA decoder takes matters into his own hands when his supervisors refuse to take action.",
+        "popularity": 434.635,
+        "vote_count": 542,
+        "vote_average": 6.896,
+        "release_date": "2025-04-09",
+        "genre_ids": [
+            53,
+            28
+        ],
+        "rating": "PG-13",
+        "genres": "Thriller, Action"
+    },
+    {
+        "id": 957,
+        "title": "Spaceballs",
+        "overview": "When the nefarious Dark Helmet hatches a plan to snatch Princess Vespa and steal her planet's air, space-bum-for-hire Lone Starr and his clueless sidekick fly to the rescue. Along the way, they meet Yogurt, who puts Lone Starr wise to the power of \"The Schwartz.\" Can he master it in time to save the day?",
+        "popularity": 21.1953,
+        "vote_count": 3108,
+        "vote_average": 6.842,
+        "release_date": "1987-06-24",
+        "genre_ids": [
+            35,
+            878
+        ],
+        "rating": "PG",
+        "genres": "Comedy, Science Fiction"
+    },
+    {
+        "id": 947891,
+        "title": "My Old Ass",
+        "overview": "An 18th birthday mushroom trip brings free-spirited Elliott face-to-face with her wisecracking 39-year-old self. But when Elliott\u2019s \"old ass\" starts handing out warnings about what her younger self should and shouldn't do, Elliott realizes she has to rethink everything about family, love, and what's becoming a transformative summer.",
+        "popularity": 62.8952,
+        "vote_count": 333,
+        "vote_average": 6.841,
+        "release_date": "2024-09-13",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "rating": "R",
+        "genres": "Comedy, Drama"
+    },
+    {
+        "id": 1233069,
+        "title": "Exterritorial",
+        "overview": "When her son vanishes inside a US consulate, ex-special forces soldier Sara does everything in her power to find him \u2014 and uncovers a dark conspiracy.",
+        "popularity": 50.5829,
+        "vote_count": 479,
+        "vote_average": 6.77,
+        "release_date": "2025-04-29",
+        "genre_ids": [
+            53,
+            28
+        ],
+        "rating": "R",
+        "genres": "Thriller, Action"
+    },
+    {
+        "id": 1426680,
+        "title": "Our Times",
+        "overview": "Husband and wife Nora and H\u00e9ctor's scientific breakthrough lets them time travel from 1966 to 2025. As H\u00e9ctor struggles, Nora thrives\u2014but at what cost?",
+        "popularity": 59.1939,
+        "vote_count": 41,
+        "vote_average": 6.768,
+        "release_date": "2025-06-09",
+        "genre_ids": [
+            878,
+            10749,
+            35
+        ],
+        "rating": "PG-13",
+        "genres": "Science Fiction, Romance, Comedy"
+    },
+    {
+        "id": 1225915,
+        "title": "Jewel Thief - The Heist Begins",
+        "overview": "In this high-octane battle of wits and wills, ingenious con artist Rehan devises a diamond heist while trying to outsmart Rajan, his sadistic adversary.",
+        "popularity": 68.851,
+        "vote_count": 62,
+        "vote_average": 6.758,
+        "release_date": "2025-04-24",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Thriller"
+    },
+    {
+        "id": 1239193,
+        "title": "Deep Cover",
+        "overview": "Kat is an improv comedy teacher beginning to question if she\u2019s missed her shot at success. When an undercover cop offers her the role of a lifetime, she recruits two of her students to infiltrate London\u2019s gangland by impersonating dangerous criminals.",
+        "popularity": 265.659,
+        "vote_count": 138,
+        "vote_average": 6.717,
+        "release_date": "2025-06-12",
+        "genre_ids": [
+            28,
+            35,
+            80
+        ],
+        "rating": "R",
+        "genres": "Action, Comedy, Crime"
+    },
+    {
+        "id": 912649,
+        "title": "Venom: The Last Dance",
+        "overview": "Eddie and Venom are on the run. Hunted by both of their worlds and with the net closing in, the duo are forced into a devastating decision that will bring the curtains down on Venom and Eddie's last dance.",
+        "popularity": 39.8114,
+        "vote_count": 3501,
+        "vote_average": 6.716,
+        "release_date": "2024-10-22",
+        "genre_ids": [
+            28,
+            878,
+            12
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Science Fiction, Adventure"
+    },
+    {
+        "id": 1297763,
+        "title": "Batman Ninja vs. Yakuza League",
+        "overview": "The Batman family has returned to the present to discover that Japan has disappeared, and a giant island - Hinomoto - is now in the sky over Gotham City.  At the top sit the Yakuza, a group of superpowered individuals who reign without honor or humanity and look suspiciously like the Justice League. Now, it\u2019s up to Batman and his allies to save Gotham!",
+        "popularity": 21.1869,
+        "vote_count": 163,
+        "vote_average": 6.709,
+        "release_date": "2025-03-17",
+        "genre_ids": [
+            16,
+            28
+        ],
+        "rating": "PG-13",
+        "genres": "Animation, Action"
+    },
+    {
+        "id": 558449,
+        "title": "Gladiator II",
+        "overview": "Years after witnessing the death of the revered hero Maximus at the hands of his uncle, Lucius is forced to enter the Colosseum after his home is conquered by the tyrannical Emperors who now lead Rome with an iron fist. With rage in his heart and the future of the Empire at stake, Lucius must look to his past to find strength and honor to return the glory of Rome to its people.",
+        "popularity": 31.1644,
+        "vote_count": 3530,
+        "vote_average": 6.707,
+        "release_date": "2024-11-13",
+        "genre_ids": [
+            28,
+            12,
+            18
+        ],
+        "rating": "R",
+        "genres": "Action, Adventure, Drama"
+    },
+    {
+        "id": 1022787,
+        "title": "Elio",
+        "overview": "Elio, a space fanatic with an active imagination, finds himself on a cosmic misadventure where he must form new bonds with eccentric alien lifeforms, navigate a crisis of intergalactic proportions and somehow discover who he is truly meant to be.",
+        "popularity": 60.1948,
+        "vote_count": 24,
+        "vote_average": 6.7,
+        "release_date": "2025-06-18",
+        "genre_ids": [
+            10751,
+            35,
+            12,
+            16,
+            878
+        ],
+        "rating": "PG",
+        "genres": "Family, Comedy, Adventure, Animation, Science Fiction"
+    },
+    {
+        "id": 1197306,
+        "title": "A Working Man",
+        "overview": "Levon Cade left behind a decorated military career in the black ops to live a simple life working construction. But when his boss's daughter, who is like family to him, is taken by human traffickers, his search to bring her home uncovers a world of corruption far greater than he ever could have imagined.",
+        "popularity": 113.0772,
+        "vote_count": 1260,
+        "vote_average": 6.683,
+        "release_date": "2025-03-26",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Crime, Thriller"
+    },
+    {
+        "id": 20760,
+        "title": "Lilo & Stitch 2: Stitch Has a Glitch",
+        "overview": "Now, we find the rowdy extraterrestrial getting used to life with his new \u02bbohana. However, a malfunction in the ultimate creation of Dr. Jumba soon emerges, which reinstates his destructive programming and threatens to both ruin his friendship with Lilo and to short him out for good!",
+        "popularity": 30.5434,
+        "vote_count": 1520,
+        "vote_average": 6.677,
+        "release_date": "2005-08-22",
+        "genre_ids": [
+            16,
+            10751,
+            35,
+            878
+        ],
+        "rating": "PG",
+        "genres": "Animation, Family, Comedy, Science Fiction"
+    },
+    {
+        "id": 507086,
+        "title": "Jurassic World Dominion",
+        "overview": "Four years after Isla Nublar was destroyed, dinosaurs now live\u2014and hunt\u2014alongside humans all over the world. This fragile balance will reshape the future and determine, once and for all, whether human beings are to remain the apex predators on a planet they now share with history's most fearsome creatures.",
+        "popularity": 21.2292,
+        "vote_count": 6416,
+        "vote_average": 6.66,
+        "release_date": "2022-06-01",
+        "genre_ids": [
+            12,
+            28,
+            878
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Action, Science Fiction"
+    },
+    {
+        "id": 1127110,
+        "title": "Diablo",
+        "overview": "Ex-con Kris Chaney seizes the daughter of a Colombian gangster to fulfill a noble promise to the young girl's mother. When her father enlists both the criminal underworld and a psychotic killer to exact his revenge, Kris relies on everything he's ever learned to stay alive and keep his word.",
+        "popularity": 150.7036,
+        "vote_count": 26,
+        "vote_average": 6.654,
+        "release_date": "2025-06-13",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Thriller"
+    },
+    {
+        "id": 1562,
+        "title": "28 Weeks Later",
+        "overview": "Twenty-eight weeks after the spread of a deadly rage virus, the inhabitants of the British Isles have lost their battle against the onslaught, as the virus has killed everyone there. Six months later, a group of Americans dare to set foot on the Isles, convinced the danger has passed. But it soon becomes all too clear that the scourge continues to live, waiting to pounce on its next victims.",
+        "popularity": 31.6173,
+        "vote_count": 4600,
+        "vote_average": 6.622,
+        "release_date": "2007-04-26",
+        "genre_ids": [
+            27,
+            53,
+            878
+        ],
+        "rating": "R",
+        "genres": "Horror, Thriller, Science Fiction"
+    },
+    {
+        "id": 9532,
+        "title": "Final Destination",
+        "overview": "After a teenager has a terrifying vision of him and his friends dying in a plane crash, he prevents the accident only to have Death hunt them down, one by one.",
+        "popularity": 35.3108,
+        "vote_count": 6105,
+        "vote_average": 6.621,
+        "release_date": "2000-03-17",
+        "genre_ids": [
+            27
+        ],
+        "rating": "R",
+        "genres": "Horror"
+    },
+    {
+        "id": 1232933,
+        "title": "Fear Below",
+        "overview": "A rag-tag team of divers attempting to salvage a sunken car from a river are thwarted by a highly aggressive bull shark.",
+        "popularity": 75.2214,
+        "vote_count": 59,
+        "vote_average": 6.61,
+        "release_date": "2025-05-02",
+        "genre_ids": [
+            27,
+            28,
+            12,
+            53
+        ],
+        "rating": "R",
+        "genres": "Horror, Action, Adventure, Thriller"
+    },
+    {
+        "id": 1232546,
+        "title": "Until Dawn",
+        "overview": "One year after her sister Melanie mysteriously disappeared, Clover and her friends head into the remote valley where she vanished in search of answers. Exploring an abandoned visitor center, they find themselves stalked by a masked killer and horrifically murdered one by one...only to wake up and find themselves back at the beginning of the same evening.",
+        "popularity": 69.7389,
+        "vote_count": 691,
+        "vote_average": 6.6,
+        "release_date": "2025-04-23",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "rating": "R",
+        "genres": "Horror, Mystery"
+    },
+    {
+        "id": 1144430,
+        "title": "Last Bullet",
+        "overview": "Car genius Lino returns to conclude his vendetta against Areski and the corrupt commander who ruined their lives in this turbo-charged trilogy finale.",
+        "popularity": 37.8235,
+        "vote_count": 181,
+        "vote_average": 6.597,
+        "release_date": "2025-05-06",
+        "genre_ids": [
+            28,
+            80,
+            53,
+            18
+        ],
+        "rating": "R",
+        "genres": "Action, Crime, Thriller, Drama"
+    },
+    {
+        "id": 1100782,
+        "title": "Smile 2",
+        "overview": "About to embark on a new world tour, global pop sensation Skye Riley begins experiencing increasingly terrifying and inexplicable events. Overwhelmed by the escalating horrors and the pressures of fame, Skye is forced to face her dark past to regain control of her life before it spirals out of control.",
+        "popularity": 21.5537,
+        "vote_count": 1592,
+        "vote_average": 6.59,
+        "release_date": "2024-10-16",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "rating": "R",
+        "genres": "Horror, Mystery"
+    },
+    {
+        "id": 1045938,
+        "title": "G20",
+        "overview": "After the G20 Summit is overtaken by terrorists, President Danielle Sutton must bring all her statecraft and military experience to defend her family and her fellow leaders.",
+        "popularity": 25.9758,
+        "vote_count": 529,
+        "vote_average": 6.561,
+        "release_date": "2025-04-10",
+        "genre_ids": [
+            28,
+            9648,
+            18
+        ],
+        "rating": "R",
+        "genres": "Action, Mystery, Drama"
+    },
+    {
+        "id": 1450599,
+        "title": "K.O.",
+        "overview": "A former fighter must find the missing son of an opponent he accidentally killed years ago, taking on a brutally violent crime gang in Marseille.",
+        "popularity": 175.3819,
+        "vote_count": 130,
+        "vote_average": 6.558,
+        "release_date": "2025-06-05",
+        "genre_ids": [
+            28,
+            18,
+            12
+        ],
+        "rating": "R",
+        "genres": "Action, Drama, Adventure"
+    },
+    {
+        "id": 539972,
+        "title": "Kraven the Hunter",
+        "overview": "Kraven Kravinoff's complex relationship with his ruthless gangster father, Nikolai, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared.",
+        "popularity": 31.467,
+        "vote_count": 1765,
+        "vote_average": 6.556,
+        "release_date": "2024-12-11",
+        "genre_ids": [
+            28,
+            12,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Adventure, Thriller"
+    },
+    {
+        "id": 1477453,
+        "title": "Trainwreck: The Astroworld Tragedy",
+        "overview": "Featuring exclusive interviews with survivors, paramedics and festival staff, this documentary examines the 2021 Astroworld tragedy and its aftermath.",
+        "popularity": 20.9594,
+        "vote_count": 25,
+        "vote_average": 6.54,
+        "release_date": "2025-06-09",
+        "genre_ids": [
+            99
+        ],
+        "rating": "R",
+        "genres": "Documentary"
+    },
+    {
+        "id": 351286,
+        "title": "Jurassic World: Fallen Kingdom",
+        "overview": "Three years after Jurassic World was destroyed, Isla Nublar now sits abandoned. When the island's dormant volcano begins roaring to life, Owen and Claire mount a campaign to rescue the remaining dinosaurs from this extinction-level event.",
+        "popularity": 24.4889,
+        "vote_count": 12099,
+        "vote_average": 6.54,
+        "release_date": "2018-06-06",
+        "genre_ids": [
+            28,
+            12,
+            878,
+            53
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Adventure, Science Fiction, Thriller"
+    },
+    {
+        "id": 1125899,
+        "title": "Cleaner",
+        "overview": "When a group of radical activists take over an energy company's annual gala, seizing 300 hostages, an ex-soldier turned window cleaner suspended 50 storeys up on the outside of the building must save those trapped inside, including her older brother.",
+        "popularity": 22.8392,
+        "vote_count": 286,
+        "vote_average": 6.53,
+        "release_date": "2025-02-19",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Thriller"
+    },
+    {
+        "id": 950387,
+        "title": "A Minecraft Movie",
+        "overview": "Four misfits find themselves struggling with ordinary problems when they are suddenly pulled through a mysterious portal into the Overworld: a bizarre, cubic wonderland that thrives on imagination. To get back home, they'll have to master this world while embarking on a magical quest with an unexpected, expert crafter, Steve.",
+        "popularity": 173.5291,
+        "vote_count": 1811,
+        "vote_average": 6.5,
+        "release_date": "2025-03-31",
+        "genre_ids": [
+            10751,
+            35,
+            12,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Family, Comedy, Adventure, Fantasy"
+    },
+    {
+        "id": 324544,
+        "title": "In the Lost Lands",
+        "overview": "A queen sends the powerful and feared sorceress Gray Alys to the ghostly wilderness of the Lost Lands in search of a magical power, where she and her guide, the drifter Boyce, must outwit and outfight both man and demon.",
+        "popularity": 64.9721,
+        "vote_count": 483,
+        "vote_average": 6.496,
+        "release_date": "2025-02-27",
+        "genre_ids": [
+            28,
+            14,
+            12
+        ],
+        "rating": "R",
+        "genres": "Action, Fantasy, Adventure"
+    },
+    {
+        "id": 668489,
+        "title": "Havoc",
+        "overview": "When a drug heist swerves lethally out of control, a jaded cop fights his way through a corrupt city's criminal underworld to save a politician's son.",
+        "popularity": 39.4695,
+        "vote_count": 837,
+        "vote_average": 6.466,
+        "release_date": "2025-04-25",
+        "genre_ids": [
+            28,
+            80,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Crime, Thriller"
+    },
+    {
+        "id": 1249213,
+        "title": "Drop",
+        "overview": "Violet, a widowed mother on her first date in years, arrives at an upscale restaurant where she is relieved that her date, Henry, is more charming and handsome than she expected. But their chemistry begins to curdle as Violet begins being irritated and then terrorized by a series of anonymous drops to her phone.",
+        "popularity": 19.8436,
+        "vote_count": 413,
+        "vote_average": 6.46,
+        "release_date": "2025-04-10",
+        "genre_ids": [
+            9648,
+            53
+        ],
+        "rating": "PG-13",
+        "genres": "Mystery, Thriller"
+    },
+    {
+        "id": 1097311,
+        "title": "Echo Valley",
+        "overview": "Kate lives a secluded life\u2014until her troubled daughter shows up, frightened and covered in someone else's blood. As Kate unravels the shocking truth, she learns just how far a mother will go to try to save her child.",
+        "popularity": 117.1462,
+        "vote_count": 107,
+        "vote_average": 6.435,
+        "release_date": "2025-06-13",
+        "genre_ids": [
+            53,
+            18
+        ],
+        "rating": "R",
+        "genres": "Thriller, Drama"
+    },
+    {
+        "id": 1397832,
+        "title": "A Widow's Game",
+        "overview": "When a man is found dead, the investigation shatters his widow's perfect facade and exposes a hidden double life in this thriller based on real events.",
+        "popularity": 30.0211,
+        "vote_count": 137,
+        "vote_average": 6.434,
+        "release_date": "2025-05-29",
+        "genre_ids": [
+            53,
+            9648
+        ],
+        "rating": "R",
+        "genres": "Thriller, Mystery"
+    },
+    {
+        "id": 1153714,
+        "title": "Death of a Unicorn",
+        "overview": "A father and daughter accidentally hit and kill a unicorn while en route to a weekend retreat, where his billionaire boss seeks to exploit the creature\u2019s miraculous curative properties.",
+        "popularity": 38.3917,
+        "vote_count": 295,
+        "vote_average": 6.42,
+        "release_date": "2025-03-27",
+        "genre_ids": [
+            27,
+            14,
+            35
+        ],
+        "rating": "R",
+        "genres": "Horror, Fantasy, Comedy"
+    },
+    {
+        "id": 896536,
+        "title": "The Legend of Ochi",
+        "overview": "In a remote village on the island of Carpathia, a shy farm girl named Yuri is raised to fear an elusive animal species known as ochi. But when Yuri discovers a wounded baby ochi has been left behind, she escapes on a quest to bring him home.",
+        "popularity": 47.7435,
+        "vote_count": 123,
+        "vote_average": 6.4,
+        "release_date": "2025-04-18",
+        "genre_ids": [
+            10751,
+            14,
+            12
+        ],
+        "rating": "PG",
+        "genres": "Family, Fantasy, Adventure"
+    },
+    {
+        "id": 1098006,
+        "title": "Fountain of Youth",
+        "overview": "A treasure-hunting mastermind assembles a team for a life-changing adventure. But to outwit and outrun threats at every turn, he'll need someone even smarter than he is: his estranged sister.",
+        "popularity": 41.5595,
+        "vote_count": 492,
+        "vote_average": 6.399,
+        "release_date": "2025-05-19",
+        "genre_ids": [
+            12,
+            14,
+            9648
+        ],
+        "rating": "PG-13",
+        "genres": "Adventure, Fantasy, Mystery"
+    },
+    {
+        "id": 757725,
+        "title": "Shadow Force",
+        "overview": "Kyrah and Isaac were once the leaders of a multinational special forces group called Shadow Force. They broke the rules by falling in love, and in order to protect their son, they go underground. With a large bounty on their heads, and the vengeful Shadow Force hot on their trail, one family's fight becomes all-out war.",
+        "popularity": 97.1359,
+        "vote_count": 78,
+        "vote_average": 6.372,
+        "release_date": "2025-05-01",
+        "genre_ids": [
+            28,
+            18,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Drama, Thriller"
+    },
+    {
+        "id": 9358,
+        "title": "Final Destination 2",
+        "overview": "When Kimberly has a violent premonition of a highway pileup she blocks the freeway, keeping a few others meant to die, safe...Or are they? The survivors mysteriously start dying and it's up to Kimberly to stop it before she's next.",
+        "popularity": 25.5484,
+        "vote_count": 4402,
+        "vote_average": 6.286,
+        "release_date": "2003-01-31",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "rating": "R",
+        "genres": "Horror, Mystery"
+    },
+    {
+        "id": 8966,
+        "title": "Twilight",
+        "overview": "When Bella Swan moves to a small town in the Pacific Northwest, she falls in love with Edward Cullen, a mysterious classmate who reveals himself to be a 108-year-old vampire. Despite Edward's repeated cautions, Bella can't stay away from him, a fatal move that endangers her own life.",
+        "popularity": 23.6296,
+        "vote_count": 13827,
+        "vote_average": 6.286,
+        "release_date": "2008-11-20",
+        "genre_ids": [
+            14,
+            18,
+            10749
+        ],
+        "rating": "PG-13",
+        "genres": "Fantasy, Drama, Romance"
+    },
+    {
+        "id": 1043905,
+        "title": "Dirty Angels",
+        "overview": "During the United States' 2021 withdrawal from Afghanistan, a group of female soldiers posing as medical relief are sent back in to rescue a group of kidnapped teenagers caught between ISIS and the Taliban.",
+        "popularity": 20.5829,
+        "vote_count": 265,
+        "vote_average": 6.26,
+        "release_date": "2024-12-11",
+        "genre_ids": [
+            28,
+            18,
+            53,
+            10752
+        ],
+        "rating": "R",
+        "genres": "Action, Drama, Thriller, War"
+    },
+    {
+        "id": 1083968,
+        "title": "Locked",
+        "overview": "When Eddie breaks into a luxury SUV, he steps into a deadly trap set by William, a self-proclaimed vigilante delivering his own brand of twisted justice. With no means of escape, Eddie must fight to survive in a ride where escape is an illusion, survival is a nightmare, and justice shifts into high gear.",
+        "popularity": 27.7254,
+        "vote_count": 188,
+        "vote_average": 6.2,
+        "release_date": "2025-03-20",
+        "genre_ids": [
+            53,
+            27
+        ],
+        "rating": "R",
+        "genres": "Thriller, Horror"
+    },
+    {
+        "id": 55779,
+        "title": "Final Destination 5",
+        "overview": "Death is just as omnipresent as ever, and is unleashed after one man\u2019s premonition saves a group of coworkers from a terrifying suspension bridge collapse. But this group of unsuspecting souls was never supposed to survive, and, in a terrifying race against time, the ill-fated group frantically tries to discover a way to escape Death\u2019s sinister agenda.",
+        "popularity": 27.7974,
+        "vote_count": 3722,
+        "vote_average": 6.144,
+        "release_date": "2011-08-12",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "rating": "R",
+        "genres": "Horror, Mystery"
+    },
+    {
+        "id": 1244944,
+        "title": "The Woman in the Yard",
+        "overview": "In the aftermath of her husband's death, widow Ramona's struggle to raise her two kids is hindered by the arrival of a mysterious woman with supernatural abilities.",
+        "popularity": 25.8702,
+        "vote_count": 204,
+        "vote_average": 6.135,
+        "release_date": "2025-03-27",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "rating": "PG-13",
+        "genres": "Horror, Mystery"
+    },
+    {
+        "id": 9286,
+        "title": "Final Destination 3",
+        "overview": "High school senior Wendy's premonition of a deadly rollercoaster ride saves her life and a lucky few, but not from death itself \u2014 which seeks out those who escaped their fate.",
+        "popularity": 25.6071,
+        "vote_count": 4163,
+        "vote_average": 6.134,
+        "release_date": "2006-02-09",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "rating": "R",
+        "genres": "Horror, Mystery"
+    },
+    {
+        "id": 1126166,
+        "title": "Flight Risk",
+        "overview": "A U.S. Marshal escorts a government witness to trial after he's accused of getting involved with a mob boss, only to discover that the pilot who is transporting them is also a hitman sent to assassinate the informant. After they subdue him, they're forced to fly together after discovering that there are others attempting to eliminate them.",
+        "popularity": 35.1601,
+        "vote_count": 795,
+        "vote_average": 6.096,
+        "release_date": "2025-01-22",
+        "genre_ids": [
+            28,
+            53
+        ],
+        "rating": "R",
+        "genres": "Action, Thriller"
+    },
+    {
+        "id": 822119,
+        "title": "Captain America: Brave New World",
+        "overview": "After meeting with newly elected U.S. President Thaddeus Ross, Sam finds himself in the middle of an international incident. He must discover the reason behind a nefarious global plot before the true mastermind has the entire world seeing red.",
+        "popularity": 76.3916,
+        "vote_count": 2190,
+        "vote_average": 6.071,
+        "release_date": "2025-02-12",
+        "genre_ids": [
+            28,
+            53,
+            878
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Thriller, Science Fiction"
+    },
+    {
+        "id": 1092506,
+        "title": "On Swift Horses",
+        "overview": "In the 1950s, a seemingly sensible newlywed and her wayward brother-in-law undertake parallel journeys of risk, romance, and self-discovery.",
+        "popularity": 39.9133,
+        "vote_count": 35,
+        "vote_average": 6.0,
+        "release_date": "2025-04-24",
+        "genre_ids": [
+            18,
+            10749
+        ],
+        "rating": "R",
+        "genres": "Drama, Romance"
+    },
+    {
+        "id": 7451,
+        "title": "xXx",
+        "overview": "Xander Cage is your standard adrenaline junkie with no fear and a lousy attitude. When the US Government \"recruits\" him to go on a mission, he's not exactly thrilled. His mission: to gather information on an organization that may just be planning the destruction of the world, led by the nihilistic Yorgi.",
+        "popularity": 59.5379,
+        "vote_count": 4439,
+        "vote_average": 5.945,
+        "release_date": "2002-08-09",
+        "genre_ids": [
+            28,
+            12,
+            53,
+            80
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Adventure, Thriller, Crime"
+    },
+    {
+        "id": 1124620,
+        "title": "The Monkey",
+        "overview": "When twin brothers find a mysterious wind-up monkey, a series of outrageous deaths tear their family apart. Twenty-five years later, the monkey begins a new killing spree forcing the estranged brothers to confront the cursed toy.",
+        "popularity": 44.2381,
+        "vote_count": 715,
+        "vote_average": 5.941,
+        "release_date": "2025-02-14",
+        "genre_ids": [
+            27,
+            35
+        ],
+        "rating": "R",
+        "genres": "Horror, Comedy"
+    },
+    {
+        "id": 829557,
+        "title": "365 Days: This Day",
+        "overview": "Laura and Massimo are back and hotter than ever. But the reunited couple's new beginning is complicated by Massimo\u2019s family ties and a mysterious man who enters Laura\u2019s life to win her heart and trust, at any cost.",
+        "popularity": 33.0869,
+        "vote_count": 1728,
+        "vote_average": 5.903,
+        "release_date": "2022-04-26",
+        "genre_ids": [
+            10749,
+            18
+        ],
+        "rating": "R",
+        "genres": "Romance, Drama"
+    },
+    {
+        "id": 216015,
+        "title": "Fifty Shades of Grey",
+        "overview": "When college senior Anastasia Steele steps in for her sick roommate to interview prominent businessman Christian Grey for their campus paper, little does she realize the path her life will take. Christian, as enigmatic as he is rich and powerful, finds himself strangely drawn to Ana, and she to him. Though sexually inexperienced, Ana plunges headlong into an affair -- and learns that Christian's true sexual proclivities push the boundaries of pain and pleasure.",
+        "popularity": 26.0148,
+        "vote_count": 12008,
+        "vote_average": 5.885,
+        "release_date": "2015-02-11",
+        "genre_ids": [
+            18,
+            10749,
+            53
+        ],
+        "rating": "R",
+        "genres": "Drama, Romance, Thriller"
+    },
+    {
+        "id": 1097549,
+        "title": "Babygirl",
+        "overview": "A high-powered CEO puts her career and family on the line when she begins a torrid affair with her much younger intern.",
+        "popularity": 26.3423,
+        "vote_count": 780,
+        "vote_average": 5.8,
+        "release_date": "2024-12-25",
+        "genre_ids": [
+            18
+        ],
+        "rating": "R",
+        "genres": "Drama"
+    },
+    {
+        "id": 19912,
+        "title": "The Final Destination",
+        "overview": "A horrifying premonition saves a young man and his friends from death during a racetrack accident but terrible fates await them nonetheless.",
+        "popularity": 24.3965,
+        "vote_count": 3542,
+        "vote_average": 5.619,
+        "release_date": "2009-08-26",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "rating": "R",
+        "genres": "Horror, Mystery"
+    },
+    {
+        "id": 1421982,
+        "title": "Kiff Lore of the Ring Light",
+        "overview": "Kiff and her friends go on an adventure to destroy a ring light of immense power.",
+        "popularity": 66.9082,
+        "vote_count": 5,
+        "vote_average": 5.6,
+        "release_date": "2025-01-21",
+        "genre_ids": [
+            16,
+            12,
+            35,
+            14,
+            10751,
+            10402
+        ],
+        "rating": "G",
+        "genres": "Animation, Adventure, Comedy, Fantasy, Family, Music"
+    },
+    {
+        "id": 1297028,
+        "title": "Rosario",
+        "overview": "Wall Street stockbroker Rosario Fuentes returns to her grandmother's apartment after her sudden death. While sorting through her belongings, Rosario discovers a hidden chamber that's filled with occult artifacts tied to dark generational rituals. As supernatural occurrences begin to plague her, she must confront her family's buried secrets and face the truth about the sacrifices and choices they made.",
+        "popularity": 42.6546,
+        "vote_count": 42,
+        "vote_average": 5.524,
+        "release_date": "2025-05-01",
+        "genre_ids": [
+            27
+        ],
+        "rating": "R",
+        "genres": "Horror"
+    },
+    {
+        "id": 1093237,
+        "title": "Hurry Up Tomorrow",
+        "overview": "A musician plagued by insomnia is pulled into an odyssey with a stranger who begins to unravel the very core of his existence.",
+        "popularity": 22.5419,
+        "vote_count": 74,
+        "vote_average": 5.5,
+        "release_date": "2025-05-14",
+        "genre_ids": [
+            10402,
+            53
+        ],
+        "rating": "R",
+        "genres": "Music, Thriller"
+    },
+    {
+        "id": 1001414,
+        "title": "Fear Street: Prom Queen",
+        "overview": "Who will be voted queen at Shadyside High's 1988 prom? For underdog Lori, competition is cutthroat even before someone starts killing off the candidates.",
+        "popularity": 41.3821,
+        "vote_count": 319,
+        "vote_average": 5.4,
+        "release_date": "2025-05-23",
+        "genre_ids": [
+            27,
+            9648
+        ],
+        "rating": "R",
+        "genres": "Horror, Mystery"
+    },
+    {
+        "id": 1379587,
+        "title": "Utopia",
+        "overview": "A soldier searching for his missing wife breaks into a high-tech facility, believing she's been caught in a human trafficking ring. But beyond its walls, he finds a surreal, futuristic fantasy park where reality and illusion blur. As he navigates this seductive and dangerous world, a shocking truth pulls him deeper into a deadly game where nothing is as it seems.",
+        "popularity": 275.7953,
+        "vote_count": 36,
+        "vote_average": 5.306,
+        "release_date": "2024-12-09",
+        "genre_ids": [
+            9648,
+            53,
+            28,
+            878
+        ],
+        "rating": "R",
+        "genres": "Mystery, Thriller, Action, Science Fiction"
+    },
+    {
+        "id": 447273,
+        "title": "Snow White",
+        "overview": "Following the benevolent King's disappearance, the Evil Queen dominated the once fair land with a cruel streak. Princess Snow White flees the castle when the Queen, in her jealousy over Snow White's inner beauty, tries to kill her. Deep into the dark woods, she stumbles upon seven magical dwarves and a young bandit named Jonathan. Together, they strive to survive the Queen's relentless pursuit and aspire to take back the kingdom.",
+        "popularity": 112.0483,
+        "vote_count": 1142,
+        "vote_average": 4.279,
+        "release_date": "2025-03-12",
+        "genre_ids": [
+            10751,
+            14
+        ],
+        "rating": "PG",
+        "genres": "Family, Fantasy"
+    },
+    {
+        "id": 1234821,
+        "title": "Jurassic World Rebirth",
+        "overview": "Five years after the events of Jurassic World Dominion, covert operations expert Zora Bennett is contracted to lead a skilled team on a top-secret mission to secure genetic material from the world's three most massive dinosaurs. When Zora's operation intersects with a civilian family whose boating expedition was capsized, they all find themselves stranded on an island where they come face-to-face with a sinister, shocking discovery that's been hidden from the world for decades.",
+        "popularity": 46.7286,
+        "vote_count": 0,
+        "vote_average": 0.0,
+        "release_date": "2025-07-01",
+        "genre_ids": [
+            878,
+            12,
+            28
+        ],
+        "rating": "PG-13",
+        "genres": "Science Fiction, Adventure, Action"
+    },
+    {
+        "id": 1061474,
+        "title": "Superman",
+        "overview": "Superman, a journalist in Metropolis, embarks on a journey to reconcile his Kryptonian heritage with his human upbringing as Clark Kent.",
+        "popularity": 37.6631,
+        "vote_count": 0,
+        "vote_average": 0.0,
+        "release_date": "2025-07-09",
+        "genre_ids": [
+            28,
+            12,
+            878
+        ],
+        "rating": "PG-13",
+        "genres": "Action, Adventure, Science Fiction"
+    },
+    {
+        "id": 617126,
+        "title": "The Fantastic Four: First Steps",
+        "overview": "Against the vibrant backdrop of a 1960s-inspired, retro-futuristic world, Marvel's First Family is forced to balance their roles as heroes with the strength of their family bond, while defending Earth from a ravenous space god called Galactus and his enigmatic Herald, Silver Surfer.",
+        "popularity": 19.9849,
+        "vote_count": 0,
+        "vote_average": 0.0,
+        "release_date": "2025-07-23",
+        "genre_ids": [
+            878,
+            12
+        ],
+        "rating": "PG-13",
+        "genres": "Science Fiction, Adventure"
+    }
+]

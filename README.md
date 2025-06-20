@@ -1,68 +1,83 @@
-# Movie ETL Pipeline Project
+# Movie ETL Pipeline
 
-This ETL (Extract, Transform, Load) pipeline retrieves movie data from the TMDb API, processes and filters it, and then loads it into a PostgreSQL database and JSON files. The project demonstrates real-world ETL practices, including API integration, data transformation, error handling, logging, and structured database storage.
-
----
-
-## Project Overview
-
-- **Extract**: Fetches movie data from TMDb API based on genre (e.g., Horror) and release dates (2000–2015).
-- **Transform**: 
-  - Filters movies into two categories:
-    - **Primary Data**: Movies with a vote count between 75 and 400 and a vote average greater than 0.
-    - **Secondary Data**: Movies with a vote count less than 75, greater than 400, or a vote average of 0.
-  - Handles missing data and logs any issues.
-- **Load**: 
-  - Saves data to two JSON files (`primary_movies.json`, `secondary_movies.json`).
-  - Loads data into two PostgreSQL tables: `primary_movies` and `secondary_movies`.
+A complete ETL (Extract, Transform, Load) pipeline for collecting, cleaning, and analyzing movie data from the TMDb API. This project demonstrates real-world data engineering skills, including API integration, data transformation, database storage, and interactive data exploration via a Python UI.
 
 ---
 
-## Technologies Used
+## **Features**
+
+- **Extract:** Fetches movie data from the TMDb API by genre and release date.
+- **Transform:** Cleans, filters, and enriches data (genre mapping, rating, streaming provider lookup).
+- **Load:** Saves processed data to PostgreSQL and JSON files.
+- **UI:** Tkinter-based interface for searching, filtering, and viewing movie details and streaming platforms.
+- **SQL Queries:** Includes a `.sql` file with advanced queries for data analysis.
+- **Logging & Error Handling:** Tracks ETL process and issues.
+- **Secure Credentials:** Uses `.env` for API keys and database URLs.
+
+---
+
+## **Tech Stack**
 
 - Python 3
 - PostgreSQL
 - TMDb API
-- `psycopg2` (PostgreSQL Integration)
-- `requests` (API Calls)
-- `dotenv` (Environment Variables)
-- `logging` (Application Logging)
+- Tkinter (UI)
+- psycopg2 (PostgreSQL integration)
+- requests (API calls)
+- python-dotenv (environment variables)
+- logging (application logging)
 
 ---
 
-## Project Structure
+## **Project Structure**
 
-<pre> ``` ├── main.py # Entry point for ETL pipeline ├── extract.py # Handles data extraction from API ├── transform.py # Transforms and filters extracted data ├── load.py # Saves data to files and database ├── .env # Stores API keys and database connection info ├── etl_pipeline.log # Log file for monitoring ETL execution └── requirements.txt # Required Python dependencies ``` </pre>
-
-
-
----
-
-## ⚙️ How to Run
-
-1. **Clone the Repository**
-
-```bash
-git clone <your-repo-url>
-cd <repo-directory>
+```
+├── main.py                # Entry point for ETL pipeline
+├── etl/
+│   ├── extract.py         # Data extraction from API
+│   ├── transform.py       # Data transformation and enrichment
+│   ├── load.py            # Save to database and JSON
+│   ├── query.py           # SQL query functions
+│   ├── config.py          # Configuration (if used)
+│   └── movie_etl_queries.sql # Example SQL queries
+├── ui/
+│   └── app.py             # Tkinter UI for data exploration
+├── requirements.txt       # Python dependencies
+├── .env.example           # Example environment variables
+├── etl_pipeline.log       # Log file
+├── primary_movies.json    # Output JSON (sample)
+└── README.md
 ```
 
+---
+
+## **Setup & Usage**
+
+1. **Clone the repository**
+    ```sh
+    git clone https://github.com/yourusername/movieETLpipeline.git
+    cd movieETLpipeline
+    ```
 
 2. **Install dependencies**
+    ```sh
+    pip install -r requirements.txt
+    ```
 
-```bash
-pip install -r requirements
-```
-
-3. **Setup Environment Variables**
-
-```
-API_KEY=your_tmdb_api_key
-DATABASE_URL=your_postgres_connection_url
-```
+3. **Set up environment variables**
+    - Create a `.env` file and fill in your TMDb API key and PostgreSQL database URL.
 
 4. **Run the ETL pipeline**
+    ```sh
+    python3 main.py db
+    ```
 
-```
-python3 main.py
-```
+5. **Launch the UI**
+    ```sh
+    python3 main.py
+    ```
+
+6. **Run SQL queries**
+    - Open `etl/movie_etl_queries.sql` in DBeaver or your preferred SQL client.
+
+---

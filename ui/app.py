@@ -13,7 +13,7 @@ from etl.query import fetch_movies_from_db
 def launch_ui():
                     #ON SEARCH FUNCION RUN WHEN USER PRESSES THE SEARCH BUTTON
     def on_search():
-        print("HELLO")
+      
         selected_sort = sort_var.get()
         min_year = min_year_dropdown.get()
         max_year = max_year_dropdown.get()
